@@ -1,12 +1,13 @@
-#### Hi there, I'm Jerry 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jerry</h1>
+<h3 align="center">A software engineer from Malaysia</h3>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ngshiheng" alt="ngshiheng" /> </p>
 
-## I'm a Software Engineer
+## What's up?
 
-- 💡 I’m looking for software ideas to work on
+- 💡 I’m currently looking for software ideas to work on
 - ✍️ I'm practicing to write more
 - 🌱 I'm interested in learning Go
-- 🏸 I enjoy playing badminton
-- 👥 I enjoy sharing my knowledge and talking to people, hit me up!
+- 💬 I enjoy sharing my knowledge and talking to people, ask me about anything!
 
 ### How to reach me:
 
@@ -34,9 +35,10 @@
 
 ---
 
-### 🤖 Latest GitHub Activity
+### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#17](https://github.com/ngshiheng/covid19-graphql-api/pull/17) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
 2. 💪 Opened PR [#17](https://github.com/ngshiheng/covid19-graphql-api/pull/17) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
 3. 🎉 Merged PR [#16](https://github.com/ngshiheng/six-percent/pull/16) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
@@ -57,6 +59,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://ngshiheng.medium.com/)
+
+---
+
+### 🎧 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22zxcagskyqhkk4qkznhsxdxq&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
