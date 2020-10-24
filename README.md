@@ -8,7 +8,7 @@
 - 🏸 I enjoy playing badminton
 - 👥 I enjoy sharing my knowledge and talking to people, hit me up!
 
-### Connect with me:
+### How to reach me:
 
 [<img align="left" alt="jerryngshiheng | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="jerryngshiheng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -31,23 +31,31 @@
 
 <br/>
 <br/>
+---
+
+### 🤖 Latest GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+    <img align="left" alt="Jerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngshiheng&show_icons=true&hide_border=true&theme=tokyonight" />
+</details>
 
 ---
 
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [GraphQL — Object Types (Columns) vs JSON Field (JSON)](https://medium.com/swlh/graphql-object-types-columns-vs-json-field-json-8fb19f56e3e3?source=rss-8606bf5a73f5------2)
 - [Investing in US Stocks with ZERO Trading Commissions as a foreigner](https://medium.com/@ngshiheng/investing-in-us-stocks-with-zero-trading-commissions-as-a-foreigner-810e82817671?source=rss-8606bf5a73f5------2)
 - [Investing in US stocks from Malaysia (MYR → USD)](https://medium.com/@ngshiheng/investing-in-us-stocks-from-malaysia-myr-usd-9f78c61f26cf?source=rss-8606bf5a73f5------2)
 - [How to run React front-end + Express back-end concurrently](https://medium.com/@ngshiheng/how-to-run-react-front-end-express-back-end-concurrently-22b9922e5df7?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More blog posts...](https://ngshiheng.medium.com/)
-
----
-
-<img align="left" alt="Jerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngshiheng&show_icons=true&hide_border=true&theme=tokyonight" />
+➡️ [Read more...](https://ngshiheng.medium.com/)
 
 [twitter]: https://twitter.com/jerryng93
 [linkedin]: https://www.linkedin.com/in/shihengng/
