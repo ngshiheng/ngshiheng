@@ -2,10 +2,11 @@
 
 ## I'm a Software Engineer
 
-- 💡 I’m looking for ideas to work on
+- 💡 I’m looking for software ideas to work on
+- ✍️ I'm practicing to write more
 - 🌱 I'm interested in learning Go
 - 🏸 I enjoy playing badminton
-- 👥 I enjoy talking to people
+- 👥 I enjoy sharing my knowledge and talking to people, hit me up!
 
 ### Connect with me:
 
@@ -31,12 +32,14 @@
 <br/>
 <br/>
 
-### Tools:
-
-<br />
-<br />
-
 ---
+
+### 📓 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More blog posts...](https://ngshiheng.medium.com/)
 
 [twitter]: https://twitter.com/jerryng93
 [linkedin]: https://www.linkedin.com/in/shihengng/
