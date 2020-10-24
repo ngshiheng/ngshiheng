@@ -41,6 +41,10 @@
 
 ➡️ [More blog posts...](https://ngshiheng.medium.com/)
 
+---
+
+<img align="left" alt="Jerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngshiheng&show_icons=true&hide_border=true&theme=tokyonight" />
+
 [twitter]: https://twitter.com/jerryng93
 [linkedin]: https://www.linkedin.com/in/shihengng/
 [medium]: https://ngshiheng.medium.com/

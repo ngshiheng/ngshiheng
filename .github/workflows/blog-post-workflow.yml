@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update Jerry's README with latest blog posts
+    name: Update Jerry's README with his latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
