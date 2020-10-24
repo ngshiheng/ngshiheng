@@ -31,17 +31,13 @@
 
 <br/>
 <br/>
+
 ---
 
 ### 🤖 Latest GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="Jerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngshiheng&show_icons=true&hide_border=true&theme=tokyonight" />
-</details>
 
 ---
 
@@ -56,6 +52,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://ngshiheng.medium.com/)
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+    <img align="left" alt="Jerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngshiheng&show_icons=true&hide_border=true&theme=tokyonight" />
+</details>
 
 [twitter]: https://twitter.com/jerryng93
 [linkedin]: https://www.linkedin.com/in/shihengng/
