@@ -54,7 +54,6 @@
 - [GraphQL — Object Types (Columns) vs JSON Field (JSON)](https://medium.com/swlh/graphql-object-types-columns-vs-json-field-json-8fb19f56e3e3?source=rss-8606bf5a73f5------2)
 - [Investing in US Stocks with ZERO Trading Commissions as a foreigner](https://medium.com/@ngshiheng/investing-in-us-stocks-with-zero-trading-commissions-as-a-foreigner-810e82817671?source=rss-8606bf5a73f5------2)
 - [Investing in US stocks from Malaysia (MYR → USD)](https://medium.com/@ngshiheng/investing-in-us-stocks-from-malaysia-myr-usd-9f78c61f26cf?source=rss-8606bf5a73f5------2)
-- [How to run React front-end + Express back-end concurrently](https://medium.com/@ngshiheng/how-to-run-react-front-end-express-back-end-concurrently-22b9922e5df7?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://ngshiheng.medium.com/)
