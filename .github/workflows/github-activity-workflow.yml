@@ -15,4 +15,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Updated README GitHub activity"
+          COMMIT_MSG: "🦾 Automatically update README about my latest GitHub activity"
