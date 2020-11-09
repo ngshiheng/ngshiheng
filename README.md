@@ -51,8 +51,8 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily distribute Python Selenium applications with PyInstaller](https://medium.com/swlh/easily-distribute-python-selenium-applications-with-pyinstaller-ef276844ad2d?source=rss-8606bf5a73f5------2)
-- [GraphQL — Object Types (Columns) vs JSON Field (JSON)](https://medium.com/swlh/graphql-object-types-columns-vs-json-field-json-8fb19f56e3e3?source=rss-8606bf5a73f5------2)
+- [How to Package Python Selenium Applications With PyInstaller](https://medium.com/swlh/easily-distribute-python-selenium-applications-with-pyinstaller-ef276844ad2d?source=rss-8606bf5a73f5------2)
+- [Database — Individual Columns vs JSON Column](https://medium.com/swlh/graphql-object-types-columns-vs-json-field-json-8fb19f56e3e3?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://ngshiheng.medium.com/)
