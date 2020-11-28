@@ -39,11 +39,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#20](https://github.com/ngshiheng/six-percent/pull/20) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-2. 🎉 Merged PR [#18](https://github.com/ngshiheng/covid19-graphql-api/pull/18) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-3. 💪 Opened PR [#18](https://github.com/ngshiheng/covid19-graphql-api/pull/18) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-4. 🎉 Merged PR [#19](https://github.com/ngshiheng/six-percent/pull/19) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-5. 💪 Opened PR [#19](https://github.com/ngshiheng/six-percent/pull/19) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+1. 🎉 Merged PR [#20](https://github.com/ngshiheng/six-percent/pull/20) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+2. 💪 Opened PR [#20](https://github.com/ngshiheng/six-percent/pull/20) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+3. 🎉 Merged PR [#18](https://github.com/ngshiheng/covid19-graphql-api/pull/18) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+4. 💪 Opened PR [#18](https://github.com/ngshiheng/covid19-graphql-api/pull/18) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+5. 🎉 Merged PR [#19](https://github.com/ngshiheng/six-percent/pull/19) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 <!--END_SECTION:activity-->
 
 ---
