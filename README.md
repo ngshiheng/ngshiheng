@@ -51,8 +51,8 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Wheel Strategy](https://medium.com/swlh/the-wheel-strategy-99e16b9540b2?source=rss-8606bf5a73f5------2)
-- [How Do You Buy a Falling Market](https://medium.com/swlh/how-do-you-buy-a-falling-market-c9487ba092b?source=rss-8606bf5a73f5------2)
+- [The Wheel Strategy](https://medium.com/fortune-for-future/the-wheel-strategy-99e16b9540b2?source=rss-8606bf5a73f5------2)
+- [How Do You Buy a Falling Market](https://medium.com/fortune-for-future/how-do-you-buy-a-falling-market-c9487ba092b?source=rss-8606bf5a73f5------2)
 - [Easy Steps You Can Do to Keep Your Money Safe](https://medium.com/makingofamillionaire/easy-steps-you-can-do-to-keep-your-money-safe-ac8697b26de8?source=rss-8606bf5a73f5------2)
 - [How to Withdraw Money From Interactive Broker (IBKR) to Malaysian Banks](https://medium.com/malaysia-personal-finance/how-to-withdraw-money-from-interactive-broker-ibkr-to-malaysia-banks-1335ca76dcd2?source=rss-8606bf5a73f5------2)
 - [Where to Keep Your Emergency Fund in Malaysia](https://medium.com/malaysia-personal-finance/where-to-keep-your-emergency-fund-in-malaysia-9a875540cd15?source=rss-8606bf5a73f5------2)
