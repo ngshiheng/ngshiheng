@@ -39,11 +39,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#738](https://github.com/graphql-python/graphene-django/issues/738) in [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django)
-2. 🗣 Commented on [#159](https://github.com/graphql-python/graphene-django/issues/159) in [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django)
-3. 🎉 Merged PR [#20](https://github.com/ngshiheng/six-percent/pull/20) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-4. 💪 Opened PR [#20](https://github.com/ngshiheng/six-percent/pull/20) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-5. 🎉 Merged PR [#18](https://github.com/ngshiheng/covid19-graphql-api/pull/18) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+1. 🎉 Merged PR [#21](https://github.com/ngshiheng/covid19-graphql-api/pull/21) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+2. 💪 Opened PR [#21](https://github.com/ngshiheng/covid19-graphql-api/pull/21) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+3. 🎉 Merged PR [#1](https://github.com/ngshiheng/django-graphene-starter/pull/1) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+4. 💪 Opened PR [#1](https://github.com/ngshiheng/django-graphene-starter/pull/1) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+5. 🗣 Commented on [#738](https://github.com/graphql-python/graphene-django/issues/738) in [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django)
 <!--END_SECTION:activity-->
 
 ---
