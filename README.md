@@ -51,11 +51,11 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving N+1 Problem With Dataloader in Python Graphene Django](https://medium.com/open-graphql/solving-n-1-problem-with-dataloader-in-python-graphene-django-7a75d6c259ba?source=rss-8606bf5a73f5------2)
 - [How to Embed Single File From a Multiple Files Gist on Medium](https://medium.com/swlh/how-to-embed-single-file-from-a-multiple-files-gist-on-medium-a96ce6bd8b01?source=rss-8606bf5a73f5------2)
 - [JSONField Models in Graphene Django](https://medium.com/open-graphql/jsonfield-models-in-graphene-django-308ae43d14ee?source=rss-8606bf5a73f5------2)
 - [The Wheel Strategy](https://medium.com/fortune-for-future/the-wheel-strategy-99e16b9540b2?source=rss-8606bf5a73f5------2)
 - [How Do You Buy a Falling Market](https://medium.com/fortune-for-future/how-do-you-buy-a-falling-market-c9487ba092b?source=rss-8606bf5a73f5------2)
-- [Easy Steps You Can Do to Keep Your Money Safe](https://medium.com/makingofamillionaire/easy-steps-you-can-do-to-keep-your-money-safe-ac8697b26de8?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://ngshiheng.medium.com/)
