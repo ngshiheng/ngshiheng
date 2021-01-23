@@ -1,0 +1,17 @@
+name: Update Todoist activity workflow
+on:
+    workflow_dispatch:
+    schedule:
+        # Runs every minute
+        - cron: "* * * * *"
+
+jobs:
+    update-readme:
+        name: Update Jerry's README with his Todoist activity
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: abhisheknaiidu/todoist-readme@master
+              with:
+                  TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+                  PREMIUM: ""
