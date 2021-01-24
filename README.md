@@ -11,9 +11,9 @@
 
 ### How to Reach Me:
 
-[<img align="left" alt="jerryngshiheng | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="jerryngshiheng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jerryngshiheng | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<code><img align="left" alt="jerryngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></code>][medium]
+[<code><img align="left" alt="jerryngshiheng | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></code>][linkedin]
+[<code><img align="left" alt="jerryngshiheng | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></code>][twitter]
 
 <br />
 
@@ -58,7 +58,7 @@
 
 ---
 
-### ✅ Todoist Stats
+### 📝 Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  11,132 Karma Points           
