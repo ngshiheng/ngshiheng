@@ -48,12 +48,11 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
--   [Fast Track Your API Development With Insomnia REST Client](https://medium.com/swlh/fast-track-your-api-development-with-insomnia-rest-client-d02521c31b9d?source=rss-8606bf5a73f5------2)
--   [Solving N+1 Problem With Dataloader in Python Graphene Django](https://medium.com/open-graphql/solving-n-1-problem-with-dataloader-in-python-graphene-django-7a75d6c259ba?source=rss-8606bf5a73f5------2)
--   [How to Embed Single File From a Multiple Files Gist on Medium](https://medium.com/technology-hits/how-to-embed-single-file-from-a-multiple-files-gist-on-medium-a96ce6bd8b01?source=rss-8606bf5a73f5------2)
--   [JSONField Models in Graphene Django](https://medium.com/open-graphql/jsonfield-models-in-graphene-django-308ae43d14ee?source=rss-8606bf5a73f5------2)
--   [The Wheel Strategy](https://medium.com/fortune-for-future/the-wheel-strategy-99e16b9540b2?source=rss-8606bf5a73f5------2)
+- [Fast Track Your API Development With Insomnia REST Client](https://medium.com/swlh/fast-track-your-api-development-with-insomnia-rest-client-d02521c31b9d?source=rss-8606bf5a73f5------2)
+- [Solving N+1 Problem With Dataloader in Python Graphene Django](https://medium.com/open-graphql/solving-n-1-problem-with-dataloader-in-python-graphene-django-7a75d6c259ba?source=rss-8606bf5a73f5------2)
+- [How to Embed Single File From a Multiple Files Gist on Medium](https://medium.com/technology-hits/how-to-embed-single-file-from-a-multiple-files-gist-on-medium-a96ce6bd8b01?source=rss-8606bf5a73f5------2)
+- [JSONField Models in Graphene Django](https://medium.com/open-graphql/jsonfield-models-in-graphene-django-308ae43d14ee?source=rss-8606bf5a73f5------2)
+- [The Wheel Strategy](https://medium.com/fortune-for-future/the-wheel-strategy-99e16b9540b2?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://ngshiheng.medium.com/)
