@@ -48,11 +48,11 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Options 101 — How To Start Options Trading](https://medium.datadriveninvestor.com/options-101-how-to-start-options-trading-fb9a7da3017a?source=rss-8606bf5a73f5------2)
 - [2 Simple Tips To Maximize Rewards With Minimal Effort When Spending](https://medium.com/fortune-for-future/2-simple-tips-to-maximize-rewards-with-minimal-effort-when-spending-153eb458a868?source=rss-8606bf5a73f5------2)
 - [Magnifying Stock Returns With LEAPS](https://medium.datadriveninvestor.com/magnifying-stock-returns-with-leaps-options-b937d5333a15?source=rss-8606bf5a73f5------2)
 - [The Best ETFs in 2021 For Investment](https://medium.datadriveninvestor.com/the-best-etfs-in-2021-for-investment-1c2f0216e110?source=rss-8606bf5a73f5------2)
 - [Short Selling and Short Squeeze Explained](https://medium.datadriveninvestor.com/short-selling-and-short-squeeze-explained-5ac5afb1f279?source=rss-8606bf5a73f5------2)
-- [Fast Track Your API Development With Insomnia REST Client](https://medium.com/swlh/fast-track-your-api-development-with-insomnia-rest-client-d02521c31b9d?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://ngshiheng.medium.com/)
