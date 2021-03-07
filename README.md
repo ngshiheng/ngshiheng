@@ -36,11 +36,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/ngshiheng/django-graphene-starter/pull/9) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-2. 💪 Opened PR [#9](https://github.com/ngshiheng/django-graphene-starter/pull/9) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-3. 🎉 Merged PR [#8](https://github.com/ngshiheng/django-graphene-starter/pull/8) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-4. 💪 Opened PR [#8](https://github.com/ngshiheng/django-graphene-starter/pull/8) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-5. 🎉 Merged PR [#7](https://github.com/ngshiheng/django-graphene-starter/pull/7) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+1. 🎉 Merged PR [#10](https://github.com/ngshiheng/django-graphene-starter/pull/10) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+2. 💪 Opened PR [#10](https://github.com/ngshiheng/django-graphene-starter/pull/10) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+3. 🎉 Merged PR [#9](https://github.com/ngshiheng/django-graphene-starter/pull/9) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+4. 💪 Opened PR [#9](https://github.com/ngshiheng/django-graphene-starter/pull/9) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+5. 🎉 Merged PR [#8](https://github.com/ngshiheng/django-graphene-starter/pull/8) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
  <!--END_SECTION:activity-->
 
 ---
