@@ -36,11 +36,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#23](https://github.com/ngshiheng/covid19-graphql-api/pull/23) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-2. 💪 Opened PR [#23](https://github.com/ngshiheng/covid19-graphql-api/pull/23) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-3. ❌ Closed PR [#20](https://github.com/ngshiheng/covid19-graphql-api/pull/20) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-4. ❌ Closed PR [#19](https://github.com/ngshiheng/covid19-graphql-api/pull/19) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-5. ❌ Closed PR [#16](https://github.com/ngshiheng/covid19-graphql-api/pull/16) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+1. 🎉 Merged PR [#13](https://github.com/ngshiheng/django-graphene-starter/pull/13) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+2. 💪 Opened PR [#13](https://github.com/ngshiheng/django-graphene-starter/pull/13) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+3. 🎉 Merged PR [#23](https://github.com/ngshiheng/covid19-graphql-api/pull/23) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+4. 💪 Opened PR [#23](https://github.com/ngshiheng/covid19-graphql-api/pull/23) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+5. ❌ Closed PR [#20](https://github.com/ngshiheng/covid19-graphql-api/pull/20) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
  <!--END_SECTION:activity-->
 
 ---
