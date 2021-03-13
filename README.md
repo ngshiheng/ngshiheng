@@ -36,11 +36,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#17](https://github.com/ngshiheng/django-graphene-starter/issues/17) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-2. ❗️ Opened issue [#16](https://github.com/ngshiheng/django-graphene-starter/issues/16) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-3. ❗️ Opened issue [#15](https://github.com/ngshiheng/django-graphene-starter/issues/15) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-4. 💪 Opened PR [#14](https://github.com/ngshiheng/django-graphene-starter/pull/14) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-5. ❗️ Closed issue [#26](https://github.com/ngshiheng/covid19-graphql-api/issues/26) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+1. ❗️ Closed issue [#17](https://github.com/ngshiheng/django-graphene-starter/issues/17) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+2. 🎉 Merged PR [#14](https://github.com/ngshiheng/django-graphene-starter/pull/14) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+3. ❗️ Opened issue [#17](https://github.com/ngshiheng/django-graphene-starter/issues/17) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+4. ❗️ Opened issue [#16](https://github.com/ngshiheng/django-graphene-starter/issues/16) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+5. ❗️ Opened issue [#15](https://github.com/ngshiheng/django-graphene-starter/issues/15) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
  <!--END_SECTION:activity-->
 
 ---
