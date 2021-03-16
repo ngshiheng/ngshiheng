@@ -36,11 +36,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#28](https://github.com/ngshiheng/covid19-graphql-api/issues/28) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-2. 💪 Opened PR [#29](https://github.com/ngshiheng/covid19-graphql-api/pull/29) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-3. ❗️ Opened issue [#28](https://github.com/ngshiheng/covid19-graphql-api/issues/28) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-4. ❗️ Closed issue [#17](https://github.com/ngshiheng/django-graphene-starter/issues/17) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-5. 🎉 Merged PR [#14](https://github.com/ngshiheng/django-graphene-starter/pull/14) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+1. ❗️ Closed issue [#28](https://github.com/ngshiheng/covid19-graphql-api/issues/28) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+2. 🎉 Merged PR [#29](https://github.com/ngshiheng/covid19-graphql-api/pull/29) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+3. 🗣 Commented on [#28](https://github.com/ngshiheng/covid19-graphql-api/issues/28) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+4. 💪 Opened PR [#29](https://github.com/ngshiheng/covid19-graphql-api/pull/29) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+5. ❗️ Opened issue [#28](https://github.com/ngshiheng/covid19-graphql-api/issues/28) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
  <!--END_SECTION:activity-->
 
 ---
