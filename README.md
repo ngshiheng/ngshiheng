@@ -48,11 +48,11 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s How Much Medium Paid Me On My First Year Of Writing](https://medium.com/illumination-curated/heres-how-much-medium-paid-me-on-my-first-year-of-writing-b9d3016c5bb9?source=rss-8606bf5a73f5------2)
 - [Monitoring Graphene Django Python GraphQL API Using Sentry](https://medium.com/open-graphql/monitoring-graphene-django-python-graphql-api-using-sentry-c0b0c07a344f?source=rss-8606bf5a73f5------2)
 - [Options 101 — Implied Volatility & Greeks](https://medium.datadriveninvestor.com/options-101-implied-volatility-greeks-d2b7cf15bfdc?source=rss-8606bf5a73f5------2)
 - [Options 101 — How To Start Options Trading](https://medium.datadriveninvestor.com/options-101-how-to-start-options-trading-fb9a7da3017a?source=rss-8606bf5a73f5------2)
 - [2 Simple Tips To Maximize Rewards With Minimal Effort When Spending](https://medium.com/fortune-for-future/2-simple-tips-to-maximize-rewards-with-minimal-effort-when-spending-153eb458a868?source=rss-8606bf5a73f5------2)
-- [Magnifying Stock Returns With LEAPS](https://medium.datadriveninvestor.com/magnifying-stock-returns-with-leaps-options-b937d5333a15?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://ngshiheng.medium.com/)
