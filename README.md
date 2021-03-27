@@ -36,11 +36,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#28](https://github.com/ngshiheng/covid19-graphql-api/issues/28) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-2. 🎉 Merged PR [#29](https://github.com/ngshiheng/covid19-graphql-api/pull/29) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-3. 🗣 Commented on [#28](https://github.com/ngshiheng/covid19-graphql-api/issues/28) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-4. 💪 Opened PR [#29](https://github.com/ngshiheng/covid19-graphql-api/pull/29) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-5. ❗️ Opened issue [#28](https://github.com/ngshiheng/covid19-graphql-api/issues/28) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+1. ❗️ Opened issue [#23](https://github.com/ngshiheng/six-percent/issues/23) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+2. ❗️ Closed issue [#28](https://github.com/ngshiheng/covid19-graphql-api/issues/28) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+3. 🎉 Merged PR [#29](https://github.com/ngshiheng/covid19-graphql-api/pull/29) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+4. 🗣 Commented on [#28](https://github.com/ngshiheng/covid19-graphql-api/issues/28) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+5. 💪 Opened PR [#29](https://github.com/ngshiheng/covid19-graphql-api/pull/29) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
  <!--END_SECTION:activity-->
 
 ---
