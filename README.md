@@ -4,10 +4,10 @@
 
 ## What's Up?
 
--   💡 I’m currently looking for software ideas to work on
+-   💡 I’m currently working on a web scraping project
 -   ✍️ I'm practicing to write more
 -   🌱 I'm interested in learning Go
--   💬 I enjoy sharing my knowledge and talking to passionate people, ask me about anything!
+-   💬 I enjoy sharing my knowledge and talking to passionate people, feel free to reach out!
 
 ### How to Reach Me:
 
