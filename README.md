@@ -48,11 +48,11 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Useful Tips While Working With Python Scrapy](https://medium.com/geekculture/5-useful-tips-while-working-with-python-scrapy-6beb59119188?source=rss-8606bf5a73f5------2)
 - [4 Web Scraping Challenges to Look Out For](https://medium.com/geekculture/4-web-scraping-challenges-to-look-out-for-23ae3c0b17aa?source=rss-8606bf5a73f5------2)
 - [Why You Should Make Use of Covered Call Options Strategy](https://medium.datadriveninvestor.com/why-you-should-make-use-of-covered-call-options-strategy-98125125c5b0?source=rss-8606bf5a73f5------2)
 - [Here’s How Much Medium Paid Me On My First Year Of Writing](https://medium.com/illumination-curated/heres-how-much-medium-paid-me-on-my-first-year-of-writing-b9d3016c5bb9?source=rss-8606bf5a73f5------2)
 - [Monitoring Graphene Django Python GraphQL API Using Sentry](https://medium.com/open-graphql/monitoring-graphene-django-python-graphql-api-using-sentry-c0b0c07a344f?source=rss-8606bf5a73f5------2)
-- [Options 101 — Implied Volatility & Greeks](https://medium.datadriveninvestor.com/options-101-implied-volatility-greeks-d2b7cf15bfdc?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://ngshiheng.medium.com/)
