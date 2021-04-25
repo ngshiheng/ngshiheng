@@ -36,11 +36,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#18](https://github.com/ngshiheng/django-graphene-starter/issues/18) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-2. ❗️ Opened issue [#26](https://github.com/ngshiheng/six-percent/issues/26) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-3. ❗️ Opened issue [#25](https://github.com/ngshiheng/six-percent/issues/25) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-4. 🎉 Merged PR [#24](https://github.com/ngshiheng/six-percent/pull/24) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-5. ❌ Closed PR [#22](https://github.com/ngshiheng/six-percent/pull/22) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+1. ❗️ Opened issue [#28](https://github.com/ngshiheng/six-percent/issues/28) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+2. 💪 Opened PR [#27](https://github.com/ngshiheng/six-percent/pull/27) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+3. ❗️ Opened issue [#18](https://github.com/ngshiheng/django-graphene-starter/issues/18) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+4. ❗️ Opened issue [#26](https://github.com/ngshiheng/six-percent/issues/26) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+5. ❗️ Opened issue [#25](https://github.com/ngshiheng/six-percent/issues/25) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
  <!--END_SECTION:activity-->
 
 ---
