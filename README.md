@@ -37,10 +37,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#79](https://github.com/wang0618/PyWebIO/issues/79) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
-2. ❗️ Opened issue [#79](https://github.com/wang0618/PyWebIO/issues/79) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
-3. ❗️ Opened issue [#28](https://github.com/ngshiheng/six-percent/issues/28) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-4. 💪 Opened PR [#27](https://github.com/ngshiheng/six-percent/pull/27) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-5. ❗️ Opened issue [#18](https://github.com/ngshiheng/django-graphene-starter/issues/18) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+2. 🗣 Commented on [#79](https://github.com/wang0618/PyWebIO/issues/79) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+3. ❗️ Opened issue [#79](https://github.com/wang0618/PyWebIO/issues/79) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+4. ❗️ Opened issue [#28](https://github.com/ngshiheng/six-percent/issues/28) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+5. 💪 Opened PR [#27](https://github.com/ngshiheng/six-percent/pull/27) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
  <!--END_SECTION:activity-->
 
 ---
