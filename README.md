@@ -36,11 +36,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#79](https://github.com/wang0618/PyWebIO/issues/79) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
-2. 🗣 Commented on [#79](https://github.com/wang0618/PyWebIO/issues/79) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+1. ❗️ Opened issue [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+2. ❗️ Closed issue [#79](https://github.com/wang0618/PyWebIO/issues/79) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
 3. 🗣 Commented on [#79](https://github.com/wang0618/PyWebIO/issues/79) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
 4. 🗣 Commented on [#79](https://github.com/wang0618/PyWebIO/issues/79) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
-5. ❗️ Opened issue [#79](https://github.com/wang0618/PyWebIO/issues/79) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+5. 🗣 Commented on [#79](https://github.com/wang0618/PyWebIO/issues/79) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
  <!--END_SECTION:activity-->
 
 ---
