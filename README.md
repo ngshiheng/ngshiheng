@@ -48,7 +48,7 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Web App without CSS and JavaScript](https://python.plainenglish.io/build-a-web-app-without-css-and-javascript-c4ca5c2223f8?source=rss-8606bf5a73f5------2)
+- [Build a Web App Without CSS and JavaScript](https://python.plainenglish.io/build-a-web-app-without-css-and-javascript-c4ca5c2223f8?source=rss-8606bf5a73f5------2)
 - [How to Deploy Python Scrapy Spiders for Free on Cloud](https://medium.com/geekculture/how-to-deploy-python-scrapy-spiders-for-free-on-cloud-154536ce5e89?source=rss-8606bf5a73f5------2)
 - [5 Useful Tips While Working With Python Scrapy](https://medium.com/geekculture/5-useful-tips-while-working-with-python-scrapy-6beb59119188?source=rss-8606bf5a73f5------2)
 - [4 Web Scraping Challenges to Look Out For](https://medium.com/geekculture/4-web-scraping-challenges-to-look-out-for-23ae3c0b17aa?source=rss-8606bf5a73f5------2)
