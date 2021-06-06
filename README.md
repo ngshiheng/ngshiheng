@@ -50,7 +50,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [3 Best Free No-Code Tools to Bootstrap Your Startup Ideas](https://medium.com/geekculture/3-best-free-no-code-tools-to-bootstrap-your-startup-ideas-360e6fe9ca?source=rss-8606bf5a73f5------2)
 - [Top 3 Backend Developer Productivity Tools That You Should Check Out](https://medium.com/geekculture/top-3-backend-developer-productivity-tools-that-you-should-check-out-bc16bff11133?source=rss-8606bf5a73f5------2)
-- [Build a Web App Without CSS and JavaScript](https://python.plainenglish.io/build-a-web-app-without-css-and-javascript-c4ca5c2223f8?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://ngshiheng.medium.com/)
