@@ -4,8 +4,8 @@
 
 ## What's Up?
 
--   💡 I’m currently working on a fun project
--   ✍️ I'm writing on Medium
+-   🍻 I’m currently working on a [Burplist](https://burplist.me/)
+-   ✍️ I'm writing on [Medium](https://ngshiheng.medium.com/)
 -   🌱 I'm interested in learning Go
 -   💬 I enjoy sharing my knowledge and talking to passionate people, feel free to reach out!
 
@@ -29,6 +29,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 
 ---
 
@@ -48,8 +49,9 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Best Free No-Code Tools to Bootstrap Your Startup Ideas](https://medium.com/geekculture/3-best-free-no-code-tools-to-bootstrap-your-startup-ideas-360e6fe9ca?source=rss-8606bf5a73f5------2)
-- [Top 3 Backend Developer Productivity Tools That You Should Check Out](https://medium.com/geekculture/top-3-backend-developer-productivity-tools-that-you-should-check-out-bc16bff11133?source=rss-8606bf5a73f5------2)
+
+-   [3 Best Free No-Code Tools to Bootstrap Your Startup Ideas](https://medium.com/geekculture/3-best-free-no-code-tools-to-bootstrap-your-startup-ideas-360e6fe9ca?source=rss-8606bf5a73f5------2)
+-   [Top 3 Backend Developer Productivity Tools That You Should Check Out](https://medium.com/geekculture/top-3-backend-developer-productivity-tools-that-you-should-check-out-bc16bff11133?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://ngshiheng.medium.com/)
@@ -59,10 +61,12 @@
 ### 📝 Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  13,532 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1,576 tasks so far           
-⏳  Longest streak is 6 days
+
+🏆 13,532 Karma Points  
+🌸 Completed 0 tasks today  
+✅ Completed 1,576 tasks so far  
+⏳ Longest streak is 6 days
+
 <!-- TODO-IST:END -->
 
 ---
