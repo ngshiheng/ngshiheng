@@ -42,11 +42,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
-2. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
-3. 🎉 Merged PR [#30](https://github.com/ngshiheng/covid19-graphql-api/pull/30) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-4. 💪 Opened PR [#30](https://github.com/ngshiheng/covid19-graphql-api/pull/30) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-5. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+1. ❗️ Opened issue [#115](https://github.com/wang0618/PyWebIO/issues/115) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+2. ❗️ Closed issue [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+3. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+4. 🎉 Merged PR [#30](https://github.com/ngshiheng/covid19-graphql-api/pull/30) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+5. 💪 Opened PR [#30](https://github.com/ngshiheng/covid19-graphql-api/pull/30) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
  <!--END_SECTION:activity-->
 
 ---
