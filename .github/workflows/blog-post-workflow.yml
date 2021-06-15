@@ -15,4 +15,4 @@ jobs:
               with:
                   feed_list: "https://medium.com/feed/@ngshiheng"
                   commit_message: "🤖 Automatically update README with latest blog post"
-                  filter_comments: "medium"
+                  filter_comments: ""
