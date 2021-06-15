@@ -1,4 +1,4 @@
-name: Update blog post workflow
+name: Update Medium posts workflow
 on:
     schedule:
         # Runs every day
@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    update-readme-with-blog:
+    update-readme-with-medium-posts:
         name: Update Jerry's README with his latest blog posts
         runs-on: ubuntu-latest
         steps:
@@ -15,3 +15,4 @@ jobs:
               with:
                   feed_list: "https://medium.com/feed/@ngshiheng"
                   commit_message: "🤖 Automatically update README with latest blog post"
+                  filter_comments: "medium"

@@ -1,12 +1,12 @@
 name: Update Todoist activity workflow
 on:
-    workflow_dispatch:
     schedule:
         # Runs every minute
         - cron: "* * * * *"
+    workflow_dispatch:
 
 jobs:
-    update-readme:
+    update-readme-with-todoist-activity:
         name: Update Jerry's README with his Todoist activity
         runs-on: ubuntu-latest
         steps:
