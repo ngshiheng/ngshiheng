@@ -61,7 +61,7 @@
 - [Top 3 Backend Developer Productivity Tools That You Should Check Out](https://medium.com/geekculture/top-3-backend-developer-productivity-tools-that-you-should-check-out-bc16bff11133?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Read more...](https://ngshiheng.medium.com/)
+➡️ [Read more...](https://jerrynsh.medium.com/)
 
 ---
 
