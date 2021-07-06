@@ -87,6 +87,6 @@
     <img align="left" alt="Jerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngshiheng&show_icons=true&hide_border=true&theme=tokyonight" />
 </details>
 
-[twitter]: https://twitter.com/jerryng93
+[twitter]: https://twitter.com/jerrynsh
 [linkedin]: https://www.linkedin.com/in/shihengng/
-[medium]: https://ngshiheng.medium.com/
+[medium]: https://jerrynsh.medium.com/
