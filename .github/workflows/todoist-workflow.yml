@@ -1,8 +1,8 @@
 name: Update Todoist activity workflow
 on:
     schedule:
-        # Runs every minute
-        - cron: "* * * * *"
+        # Runs every hour at minute 0
+        - cron: "0 * * * *"
     workflow_dispatch:
 
 jobs:

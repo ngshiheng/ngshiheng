@@ -1,8 +1,8 @@
 name: Update Medium posts workflow
 on:
     schedule:
-        # Runs every day
-        - cron: "0 0 * * *"
+        # Runs at minute 0 past hour 0 and 12
+        - cron: "0 0,12 * * *"
     workflow_dispatch:
 
 jobs:
