@@ -12,6 +12,7 @@
 ### How to Reach Me:
 
 [<img align="left" alt="jerryngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="jerryngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
 [<img align="left" alt="jerryngshiheng | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jerryngshiheng | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -54,11 +55,12 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Exceptions Like This in Python](https://betterprogramming.pub/stop-using-exceptions-like-this-in-python-2bd8ba7d8841?source=rss-8606bf5a73f5------2)
-- [Tuples vs. Lists vs. Sets in Python](https://betterprogramming.pub/tuples-vs-lists-vs-sets-in-python-3dff8a7b1f02?source=rss-8606bf5a73f5------2)
-- [3 Useful Python f-string Tricks You Probably Don’t Know](https://betterprogramming.pub/3-useful-python-f-string-tricks-you-probably-dont-know-f908f7ed6cf5?source=rss-8606bf5a73f5------2)
-- [Things You Should Know About TCP](https://medium.com/geekculture/things-you-should-know-about-tcp-11df59465b0a?source=rss-8606bf5a73f5------2)
-- [4 Intermediate Tips To Power Up Your  Django Development Skills](https://betterprogramming.pub/4-intermediate-tips-to-power-up-your-django-development-skills-7cf91579aaba?source=rss-8606bf5a73f5------2)
+
+-   [Stop Using Exceptions Like This in Python](https://betterprogramming.pub/stop-using-exceptions-like-this-in-python-2bd8ba7d8841?source=rss-8606bf5a73f5------2)
+-   [Tuples vs. Lists vs. Sets in Python](https://betterprogramming.pub/tuples-vs-lists-vs-sets-in-python-3dff8a7b1f02?source=rss-8606bf5a73f5------2)
+-   [3 Useful Python f-string Tricks You Probably Don’t Know](https://betterprogramming.pub/3-useful-python-f-string-tricks-you-probably-dont-know-f908f7ed6cf5?source=rss-8606bf5a73f5------2)
+-   [Things You Should Know About TCP](https://medium.com/geekculture/things-you-should-know-about-tcp-11df59465b0a?source=rss-8606bf5a73f5------2)
+-   [4 Intermediate Tips To Power Up Your Django Development Skills](https://betterprogramming.pub/4-intermediate-tips-to-power-up-your-django-development-skills-7cf91579aaba?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://jerrynsh.medium.com/)
@@ -68,10 +70,12 @@
 ### 📝 Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  13,995 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 1,702 tasks so far           
-⏳  Longest streak is 6 days
+
+🏆 13,995 Karma Points  
+🌸 Completed 2 tasks today  
+✅ Completed 1,702 tasks so far  
+⏳ Longest streak is 6 days
+
 <!-- TODO-IST:END -->
 
 ---
@@ -87,6 +91,7 @@
     <img align="left" alt="Jerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngshiheng&show_icons=true&hide_border=true&theme=tokyonight" />
 </details>
 
+[medium]: https://jerrynsh.medium.com/
+[dev]: https://dev.to/jerrynsh
 [twitter]: https://twitter.com/jerrynsh/
 [linkedin]: https://www.linkedin.com/in/jerrynsh/
-[medium]: https://jerrynsh.medium.com/
