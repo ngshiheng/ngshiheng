@@ -55,11 +55,11 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need To Know About Context Managers In Python](https://betterprogramming.pub/everything-you-need-to-know-about-context-managers-in-python-f83556fbdfb?source=rss-8606bf5a73f5------2)
 - [Stop Using Exceptions Like This in Python](https://betterprogramming.pub/stop-using-exceptions-like-this-in-python-2bd8ba7d8841?source=rss-8606bf5a73f5------2)
 - [Tuples vs. Lists vs. Sets in Python](https://betterprogramming.pub/tuples-vs-lists-vs-sets-in-python-3dff8a7b1f02?source=rss-8606bf5a73f5------2)
 - [3 Useful Python f-string Tricks You Probably Don’t Know](https://betterprogramming.pub/3-useful-python-f-string-tricks-you-probably-dont-know-f908f7ed6cf5?source=rss-8606bf5a73f5------2)
 - [Things You Should Know About TCP](https://medium.com/geekculture/things-you-should-know-about-tcp-11df59465b0a?source=rss-8606bf5a73f5------2)
-- [4 Intermediate Tips To Power Up Your  Django Development Skills](https://betterprogramming.pub/4-intermediate-tips-to-power-up-your-django-development-skills-7cf91579aaba?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://jerrynsh.medium.com/)
