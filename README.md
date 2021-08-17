@@ -55,11 +55,11 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Generators in Python: The Why, The What, and The When](https://betterprogramming.pub/using-generators-in-python-the-why-the-what-and-the-when-e7d33c0b606?source=rss-8606bf5a73f5------2)
 - [Everything You Need To Know About Data Classes in Python](https://betterprogramming.pub/everything-you-need-to-know-about-data-classes-in-python-46a93a90f9d3?source=rss-8606bf5a73f5------2)
 - [All You Need To Know About Context Managers In Python](https://betterprogramming.pub/everything-you-need-to-know-about-context-managers-in-python-f83556fbdfb?source=rss-8606bf5a73f5------2)
 - [Stop Using Exceptions Like This in Python](https://betterprogramming.pub/stop-using-exceptions-like-this-in-python-2bd8ba7d8841?source=rss-8606bf5a73f5------2)
 - [Tuples vs. Lists vs. Sets in Python](https://betterprogramming.pub/tuples-vs-lists-vs-sets-in-python-3dff8a7b1f02?source=rss-8606bf5a73f5------2)
-- [3 Useful Python f-string Tricks You Probably Don’t Know](https://betterprogramming.pub/3-useful-python-f-string-tricks-you-probably-dont-know-f908f7ed6cf5?source=rss-8606bf5a73f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://jerrynsh.medium.com/)
