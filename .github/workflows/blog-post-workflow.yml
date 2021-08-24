@@ -1,4 +1,4 @@
-name: Update Medium posts workflow
+name: Update Dev.to posts workflow
 on:
     schedule:
         # Runs at minute 0 past hour 0 and 12
