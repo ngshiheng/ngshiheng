@@ -43,11 +43,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#115](https://github.com/wang0618/PyWebIO/issues/115) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
-2. ❗️ Closed issue [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
-3. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
-4. 🎉 Merged PR [#30](https://github.com/ngshiheng/covid19-graphql-api/pull/30) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-5. 💪 Opened PR [#30](https://github.com/ngshiheng/covid19-graphql-api/pull/30) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+1. 🎉 Merged PR [#1](https://github.com/ngshiheng/automated-valet-car-parking-backend/pull/1) in [ngshiheng/automated-valet-car-parking-backend](https://github.com/ngshiheng/automated-valet-car-parking-backend)
+2. 💪 Opened PR [#1](https://github.com/ngshiheng/automated-valet-car-parking-backend/pull/1) in [ngshiheng/automated-valet-car-parking-backend](https://github.com/ngshiheng/automated-valet-car-parking-backend)
+3. ❗️ Opened issue [#115](https://github.com/wang0618/PyWebIO/issues/115) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+4. ❗️ Closed issue [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+5. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
  <!--END_SECTION:activity-->
 
 ---
