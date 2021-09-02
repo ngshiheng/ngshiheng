@@ -5,14 +5,16 @@
 ## What's Up?
 
 -   🐍 I'm currently using Python at work
+-   🍻 I'm currently hacking on [Burplist](https://burplist.me/)
 -   ✍️ I'm writing on Medium
 -   🌱 I'm interested in learning Go
 -   💬 I enjoy sharing my knowledge and talking to passionate people, feel free to reach out!
 
 ### How to Reach Me:
 
-[<img align="left" alt="jerryngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="jerryngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ghost.svg" />][ghost]
 [<img align="left" alt="jerryngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
+[<img align="left" alt="jerryngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="jerryngshiheng | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jerryngshiheng | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -55,11 +57,12 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn How Dataclasses Work in Python](https://dev.to/jerrynsh/learn-how-dataclasses-work-in-python-37a2)
-- [All You Need To Know About Context Managers In Python](https://dev.to/jerrynsh/all-you-need-to-know-about-context-managers-in-python-i03)
-- [Stop Using Exceptions Like This in Python](https://dev.to/jerrynsh/stop-using-exceptions-like-this-in-python-407o)
-- [3 Useful Python F-string Tricks You Probably Don’t Know](https://dev.to/jerrynsh/3-useful-python-f-string-tricks-you-probably-don-t-know-2o54)
-- [4 Web Scraping Challenges To Look Out For](https://dev.to/jerrynsh/4-web-scraping-challenges-to-look-out-for-127i)
+
+-   [Learn How Dataclasses Work in Python](https://dev.to/jerrynsh/learn-how-dataclasses-work-in-python-37a2)
+-   [All You Need To Know About Context Managers In Python](https://dev.to/jerrynsh/all-you-need-to-know-about-context-managers-in-python-i03)
+-   [Stop Using Exceptions Like This in Python](https://dev.to/jerrynsh/stop-using-exceptions-like-this-in-python-407o)
+-   [3 Useful Python F-string Tricks You Probably Don’t Know](https://dev.to/jerrynsh/3-useful-python-f-string-tricks-you-probably-don-t-know-2o54)
+-   [4 Web Scraping Challenges To Look Out For](https://dev.to/jerrynsh/4-web-scraping-challenges-to-look-out-for-127i)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...](https://jerrynsh.medium.com/)
@@ -69,10 +72,12 @@
 ### 📝 Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  14,490 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 1,830 tasks so far           
-⏳  Longest streak is 6 days
+
+🏆 14,490 Karma Points  
+🌸 Completed 1 tasks today  
+✅ Completed 1,830 tasks so far  
+⏳ Longest streak is 6 days
+
 <!-- TODO-IST:END -->
 
 ---
@@ -88,7 +93,8 @@
     <img align="left" alt="Jerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngshiheng&show_icons=true&hide_border=true&theme=tokyonight" />
 </details>
 
-[medium]: https://jerrynsh.medium.com/
+[ghost]: http://jerrynsh.com/
 [dev]: https://dev.to/jerrynsh
+[medium]: https://jerrynsh.medium.com/
 [twitter]: https://twitter.com/jerrynsh/
 [linkedin]: https://www.linkedin.com/in/jerrynsh/
