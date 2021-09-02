@@ -5,8 +5,8 @@
 ## What's Up?
 
 -   🐍 I'm currently using Python at work
--   🍻 I'm currently hacking on [Burplist](burplist)
--   ✍️ I'm writing on [Medium](medium)
+-   🍻 I'm currently hacking on [Burplist][burplist]
+-   ✍️ I'm writing on [Medium][medium]
 -   🌱 I'm interested in learning Go
 -   💬 I enjoy sharing my knowledge and talking to passionate people, feel free to reach out!
 
