@@ -5,17 +5,17 @@
 ## What's Up?
 
 -   🐍 I'm currently using Python at work
--   🍻 I'm currently hacking on [Burplist](https://burplist.me/)
--   ✍️ I'm writing on Medium
+-   🍻 I'm currently hacking on [Burplist](burplist)
+-   ✍️ I'm writing on [Medium](medium)
 -   🌱 I'm interested in learning Go
 -   💬 I enjoy sharing my knowledge and talking to passionate people, feel free to reach out!
 
 ### How to Reach Me:
 
-[<img align="left" alt="jerryngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ghost.svg" />][ghost]
-[<img align="left" alt="jerryngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
-[<img align="left" alt="jerryngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="jerryngshiheng | Ghost" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ghost.svg" />][ghost]
 [<img align="left" alt="jerryngshiheng | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jerryngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="jerryngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
 [<img align="left" alt="jerryngshiheng | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -94,7 +94,8 @@
 </details>
 
 [ghost]: http://jerrynsh.com/
-[dev]: https://dev.to/jerrynsh
-[medium]: https://jerrynsh.medium.com/
-[twitter]: https://twitter.com/jerrynsh/
 [linkedin]: https://www.linkedin.com/in/jerrynsh/
+[medium]: https://jerrynsh.medium.com/
+[dev]: https://dev.to/jerrynsh
+[twitter]: https://twitter.com/jerrynsh/
+[burplist]: https://burplist.me/
