@@ -12,11 +12,11 @@
 
 ### How to Reach Me:
 
-[<img align="left" alt="jerryngshiheng | Ghost" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ghost.svg" />][ghost]
-[<img align="left" alt="jerryngshiheng | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jerryngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="jerryngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
-[<img align="left" alt="jerryngshiheng | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jerryngshiheng | Ghost" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/ghost.svg" />][ghost]
+[<img align="left" alt="jerryngshiheng | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jerryngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/medium.svg" />][medium]
+[<img align="left" alt="jerryngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/devdotto.svg" />][dev]
+[<img align="left" alt="jerryngshiheng | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/twitter.svg" />][twitter]
 
 <br />
 <br />
@@ -72,10 +72,12 @@
 ### 📝 Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  14,490 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 1,831 tasks so far           
-⏳  Longest streak is 6 days
+
+🏆 14,490 Karma Points  
+🌸 Completed 2 tasks today  
+✅ Completed 1,831 tasks so far  
+⏳ Longest streak is 6 days
+
 <!-- TODO-IST:END -->
 
 ---
