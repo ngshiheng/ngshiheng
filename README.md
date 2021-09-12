@@ -64,7 +64,7 @@
 - [4 Web Scraping Challenges To Look Out For](https://dev.to/jerrynsh/4-web-scraping-challenges-to-look-out-for-127i)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Read more...](https://jerrynsh.medium.com/)
+➡️ [Read more...][dev]
 
 ---
 
