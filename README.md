@@ -44,11 +44,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#30](https://github.com/ngshiheng/six-percent/pull/30) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-2. ❌ Closed PR [#27](https://github.com/ngshiheng/six-percent/pull/27) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-3. 💪 Opened PR [#32](https://github.com/ngshiheng/six-percent/pull/32) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-4. 🎉 Merged PR [#1](https://github.com/ngshiheng/automated-valet-car-parking-backend/pull/1) in [ngshiheng/automated-valet-car-parking-backend](https://github.com/ngshiheng/automated-valet-car-parking-backend)
-5. 💪 Opened PR [#1](https://github.com/ngshiheng/automated-valet-car-parking-backend/pull/1) in [ngshiheng/automated-valet-car-parking-backend](https://github.com/ngshiheng/automated-valet-car-parking-backend)
+1. ❗️ Closed issue [#31](https://github.com/ngshiheng/six-percent/issues/31) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+2. ❗️ Closed issue [#23](https://github.com/ngshiheng/six-percent/issues/23) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+3. ❗️ Closed issue [#28](https://github.com/ngshiheng/six-percent/issues/28) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+4. ❗️ Closed issue [#25](https://github.com/ngshiheng/six-percent/issues/25) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+5. ❌ Closed PR [#30](https://github.com/ngshiheng/six-percent/pull/30) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 5. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
  <!--END_SECTION:activity-->
 
