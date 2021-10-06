@@ -44,11 +44,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-
 1. ❗️ Closed issue [#34](https://github.com/ngshiheng/six-percent/issues/34) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 2. 🎉 Merged PR [#36](https://github.com/ngshiheng/six-percent/pull/36) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 3. 💪 Opened PR [#36](https://github.com/ngshiheng/six-percent/pull/36) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 4. 🗣 Commented on [#34](https://github.com/ngshiheng/six-percent/issues/34) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+5. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 5. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 6. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
  <!--END_SECTION:activity-->
