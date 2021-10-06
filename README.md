@@ -4,10 +4,10 @@
 
 ## What's Up?
 
--   🐍 I'm currently using Python at work
--   🍻 I'm currently hacking on [Burplist][burplist]
+-   🐍 I'm using Python at work
+-   🌱 I'm currently learning Go
 -   ✍️ I'm writing on [Medium][medium]
--   🌱 I'm interested in learning Go
+-   🍻 I'm hacking on [Burplist][burplist]
 -   💬 I enjoy sharing my knowledge and talking to passionate people, feel free to reach out!
 
 ### How to Reach Me:
@@ -44,12 +44,13 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Closed issue [#34](https://github.com/ngshiheng/six-percent/issues/34) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 2. 🎉 Merged PR [#36](https://github.com/ngshiheng/six-percent/pull/36) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 3. 💪 Opened PR [#36](https://github.com/ngshiheng/six-percent/pull/36) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 4. 🗣 Commented on [#34](https://github.com/ngshiheng/six-percent/issues/34) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 5. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-5. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+6. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
  <!--END_SECTION:activity-->
 
 ---
@@ -57,11 +58,12 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Generators in Python: The Why, The What, and The When](https://dev.to/jerrynsh/using-generators-in-python-the-why-the-what-and-the-when-55l)
-- [Learn How Dataclasses Work in Python](https://dev.to/jerrynsh/learn-how-dataclasses-work-in-python-37a2)
-- [All You Need To Know About Context Managers In Python](https://dev.to/jerrynsh/all-you-need-to-know-about-context-managers-in-python-i03)
-- [Stop Using Exceptions Like This in Python](https://dev.to/jerrynsh/stop-using-exceptions-like-this-in-python-407o)
-- [3 Useful Python F-string Tricks You Probably Don’t Know](https://dev.to/jerrynsh/3-useful-python-f-string-tricks-you-probably-don-t-know-2o54)
+
+-   [Using Generators in Python: The Why, The What, and The When](https://dev.to/jerrynsh/using-generators-in-python-the-why-the-what-and-the-when-55l)
+-   [Learn How Dataclasses Work in Python](https://dev.to/jerrynsh/learn-how-dataclasses-work-in-python-37a2)
+-   [All You Need To Know About Context Managers In Python](https://dev.to/jerrynsh/all-you-need-to-know-about-context-managers-in-python-i03)
+-   [Stop Using Exceptions Like This in Python](https://dev.to/jerrynsh/stop-using-exceptions-like-this-in-python-407o)
+-   [3 Useful Python F-string Tricks You Probably Don’t Know](https://dev.to/jerrynsh/3-useful-python-f-string-tricks-you-probably-don-t-know-2o54)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
@@ -71,10 +73,12 @@
 ### 📝 Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  14,880 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1,939 tasks so far           
-⏳  Longest streak is 6 days
+
+🏆 14,880 Karma Points  
+🌸 Completed 0 tasks today  
+✅ Completed 1,939 tasks so far  
+⏳ Longest streak is 6 days
+
 <!-- TODO-IST:END -->
 
 ---
