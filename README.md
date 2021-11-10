@@ -44,11 +44,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ngshiheng/sudoku/pull/1) in [ngshiheng/sudoku](https://github.com/ngshiheng/sudoku)
-2. 💪 Opened PR [#1](https://github.com/ngshiheng/sudoku/pull/1) in [ngshiheng/sudoku](https://github.com/ngshiheng/sudoku)
-3. ❗️ Closed issue [#20](https://github.com/ngshiheng/burplist/issues/20) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-4. ❗️ Closed issue [#12](https://github.com/ngshiheng/burplist/issues/12) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-5. 🎉 Merged PR [#37](https://github.com/ngshiheng/covid19-graphql-api/pull/37) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+1. 🎉 Merged PR [#53](https://github.com/ngshiheng/burplist/pull/53) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+2. 💪 Opened PR [#53](https://github.com/ngshiheng/burplist/pull/53) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+3. 🎉 Merged PR [#1](https://github.com/ngshiheng/sudoku/pull/1) in [ngshiheng/sudoku](https://github.com/ngshiheng/sudoku)
+4. 💪 Opened PR [#1](https://github.com/ngshiheng/sudoku/pull/1) in [ngshiheng/sudoku](https://github.com/ngshiheng/sudoku)
+5. ❗️ Closed issue [#20](https://github.com/ngshiheng/burplist/issues/20) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 5. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 6. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
  <!--END_SECTION:activity-->
