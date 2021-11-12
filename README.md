@@ -44,11 +44,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-2. 🗣 Commented on [#54](https://github.com/ngshiheng/burplist/issues/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-3. ❗️ Closed issue [#18](https://github.com/ngshiheng/burplist/issues/18) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-4. 🗣 Commented on [#18](https://github.com/ngshiheng/burplist/issues/18) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-5. 💪 Opened PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+1. 🎉 Merged PR [#55](https://github.com/ngshiheng/burplist/pull/55) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+2. 💪 Opened PR [#55](https://github.com/ngshiheng/burplist/pull/55) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+3. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+4. 🗣 Commented on [#54](https://github.com/ngshiheng/burplist/issues/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+5. ❗️ Closed issue [#18](https://github.com/ngshiheng/burplist/issues/18) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 5. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 6. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
  <!--END_SECTION:activity-->
