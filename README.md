@@ -4,8 +4,9 @@
 
 ## What's Up?
 
--   🐍 I'm using Python at work
--   🌱 I'm currently learning Go
+-   🐿️ I'm using Go at work
+-   🐍 I was working with Python prior to Go
+-   🌱 I'm currently actively learning Go
 -   ✍️ I'm writing on [Medium][medium]
 -   🍻 I'm hacking on [Burplist][burplist]
 -   💬 I enjoy sharing my knowledge and talking to passionate people, feel free to reach out!
@@ -44,13 +45,14 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#19](https://github.com/ngshiheng/django-graphene-starter/pull/19) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
 2. 💪 Opened PR [#19](https://github.com/ngshiheng/django-graphene-starter/pull/19) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
 3. 🎉 Merged PR [#55](https://github.com/ngshiheng/burplist/pull/55) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 4. 💪 Opened PR [#55](https://github.com/ngshiheng/burplist/pull/55) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 5. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-5. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-6. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+6. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+7. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
  <!--END_SECTION:activity-->
 
 ---
@@ -58,11 +60,12 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built A Craft Beer Search Engine For Free](https://dev.to/jerrynsh/how-i-built-a-craft-beer-search-engine-for-free-4c14)
-- [Using Generators in Python: The Why, The What, and The When](https://dev.to/jerrynsh/using-generators-in-python-the-why-the-what-and-the-when-55l)
-- [Learn How Dataclasses Work in Python](https://dev.to/jerrynsh/learn-how-dataclasses-work-in-python-37a2)
-- [All You Need To Know About Context Managers In Python](https://dev.to/jerrynsh/all-you-need-to-know-about-context-managers-in-python-i03)
-- [Stop Using Exceptions Like This in Python](https://dev.to/jerrynsh/stop-using-exceptions-like-this-in-python-407o)
+
+-   [How I Built A Craft Beer Search Engine For Free](https://dev.to/jerrynsh/how-i-built-a-craft-beer-search-engine-for-free-4c14)
+-   [Using Generators in Python: The Why, The What, and The When](https://dev.to/jerrynsh/using-generators-in-python-the-why-the-what-and-the-when-55l)
+-   [Learn How Dataclasses Work in Python](https://dev.to/jerrynsh/learn-how-dataclasses-work-in-python-37a2)
+-   [All You Need To Know About Context Managers In Python](https://dev.to/jerrynsh/all-you-need-to-know-about-context-managers-in-python-i03)
+-   [Stop Using Exceptions Like This in Python](https://dev.to/jerrynsh/stop-using-exceptions-like-this-in-python-407o)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
@@ -72,10 +75,12 @@
 ### 📝 Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  15,422 Karma Points           
-🌸  Completed 4 tasks today           
-✅  Completed 2,081 tasks so far           
-⏳  Longest streak is 6 days
+
+🏆 15,422 Karma Points  
+🌸 Completed 4 tasks today  
+✅ Completed 2,081 tasks so far  
+⏳ Longest streak is 6 days
+
 <!-- TODO-IST:END -->
 
 ---
