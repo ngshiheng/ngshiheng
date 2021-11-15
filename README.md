@@ -60,12 +60,11 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
--   [How I Built A Craft Beer Search Engine For Free](https://dev.to/jerrynsh/how-i-built-a-craft-beer-search-engine-for-free-4c14)
--   [Using Generators in Python: The Why, The What, and The When](https://dev.to/jerrynsh/using-generators-in-python-the-why-the-what-and-the-when-55l)
--   [Learn How Dataclasses Work in Python](https://dev.to/jerrynsh/learn-how-dataclasses-work-in-python-37a2)
--   [All You Need To Know About Context Managers In Python](https://dev.to/jerrynsh/all-you-need-to-know-about-context-managers-in-python-i03)
--   [Stop Using Exceptions Like This in Python](https://dev.to/jerrynsh/stop-using-exceptions-like-this-in-python-407o)
+- [How I Built A Craft Beer Search Engine For Free](https://dev.to/jerrynsh/how-i-built-a-craft-beer-search-engine-for-free-4c14)
+- [Using Generators in Python: The Why, The What, and The When](https://dev.to/jerrynsh/using-generators-in-python-the-why-the-what-and-the-when-55l)
+- [Learn How Dataclasses Work in Python](https://dev.to/jerrynsh/learn-how-dataclasses-work-in-python-37a2)
+- [All You Need To Know About Context Managers In Python](https://dev.to/jerrynsh/all-you-need-to-know-about-context-managers-in-python-i03)
+- [Stop Using Exceptions Like This in Python](https://dev.to/jerrynsh/stop-using-exceptions-like-this-in-python-407o)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
