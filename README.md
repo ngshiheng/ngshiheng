@@ -60,11 +60,11 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ditch These 7 Bad Habits in Python](https://dev.to/jerrynsh/ditch-these-7-bad-habits-in-python-5hnc)
 - [How To Ask for Help as a Developer](https://dev.to/jerrynsh/how-to-ask-for-help-as-a-developer-2j1d)
 - [How I Built A Craft Beer Search Engine For Free](https://dev.to/jerrynsh/how-i-built-a-craft-beer-search-engine-for-free-4c14)
 - [Using Generators in Python: The Why, The What, and The When](https://dev.to/jerrynsh/using-generators-in-python-the-why-the-what-and-the-when-55l)
 - [Learn How Dataclasses Work in Python](https://dev.to/jerrynsh/learn-how-dataclasses-work-in-python-37a2)
-- [All You Need To Know About Context Managers In Python](https://dev.to/jerrynsh/all-you-need-to-know-about-context-managers-in-python-i03)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
