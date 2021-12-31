@@ -44,11 +44,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-
 1. 🗣 Commented on [#209](https://github.com/cloudflare/wrangler/issues/209) in [cloudflare/wrangler](https://github.com/cloudflare/wrangler)
 2. 🎉 Merged PR [#58](https://github.com/ngshiheng/burplist/pull/58) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 3. 🗣 Commented on [#58](https://github.com/ngshiheng/burplist/issues/58) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 4. 💪 Opened PR [#58](https://github.com/ngshiheng/burplist/pull/58) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+5. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 5. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 6. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 7. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
