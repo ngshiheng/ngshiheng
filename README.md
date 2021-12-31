@@ -4,12 +4,10 @@
 
 ## What's Up?
 
--   🐿️ I'm using Go at work
--   🐍 I was working with Python prior to Go
--   🌱 I'm currently actively learning Go
+-   🌱 I'm currently learning Go
 -   ✍️ I'm writing on [Medium][medium]
--   🍻 I'm hacking on [Burplist][burplist]
--   💬 I enjoy sharing my knowledge and talking to passionate people, feel free to reach out!
+-   🍻 I crafted [Burplist][burplist]
+-   💬 Ping me about ideas, software engineering, writing, or anything else!
 
 ### How to Reach Me:
 
@@ -25,6 +23,7 @@
 ### Programming Languages:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
@@ -45,14 +44,15 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#209](https://github.com/cloudflare/wrangler/issues/209) in [cloudflare/wrangler](https://github.com/cloudflare/wrangler)
 2. 🎉 Merged PR [#58](https://github.com/ngshiheng/burplist/pull/58) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 3. 🗣 Commented on [#58](https://github.com/ngshiheng/burplist/issues/58) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 4. 💪 Opened PR [#58](https://github.com/ngshiheng/burplist/pull/58) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 5. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-5. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-6. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-7. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+6. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+7. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+8. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
  <!--END_SECTION:activity-->
 
 ---
@@ -60,11 +60,12 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ditch These 7 Bad Habits in Python](https://dev.to/jerrynsh/ditch-these-7-bad-habits-in-python-5hnc)
-- [How To Ask for Help as a Developer](https://dev.to/jerrynsh/how-to-ask-for-help-as-a-developer-2j1d)
-- [How I Built A Craft Beer Search Engine For Free](https://dev.to/jerrynsh/how-i-built-a-craft-beer-search-engine-for-free-4c14)
-- [Using Generators in Python: The Why, The What, and The When](https://dev.to/jerrynsh/using-generators-in-python-the-why-the-what-and-the-when-55l)
-- [Learn How Dataclasses Work in Python](https://dev.to/jerrynsh/learn-how-dataclasses-work-in-python-37a2)
+
+-   [Ditch These 7 Bad Habits in Python](https://dev.to/jerrynsh/ditch-these-7-bad-habits-in-python-5hnc)
+-   [How To Ask for Help as a Developer](https://dev.to/jerrynsh/how-to-ask-for-help-as-a-developer-2j1d)
+-   [How I Built A Craft Beer Search Engine For Free](https://dev.to/jerrynsh/how-i-built-a-craft-beer-search-engine-for-free-4c14)
+-   [Using Generators in Python: The Why, The What, and The When](https://dev.to/jerrynsh/using-generators-in-python-the-why-the-what-and-the-when-55l)
+-   [Learn How Dataclasses Work in Python](https://dev.to/jerrynsh/learn-how-dataclasses-work-in-python-37a2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
@@ -74,10 +75,12 @@
 ### 📝 Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  16,400 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 2,185 tasks so far           
-⏳  Longest streak is 6 days
+
+🏆 16,400 Karma Points  
+🌸 Completed 2 tasks today  
+✅ Completed 2,185 tasks so far  
+⏳ Longest streak is 6 days
+
 <!-- TODO-IST:END -->
 
 ---
