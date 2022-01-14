@@ -44,11 +44,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/ngshiheng/burplist/pull/62) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-2. 🎉 Merged PR [#61](https://github.com/ngshiheng/burplist/pull/61) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-3. ❌ Closed PR [#14](https://github.com/ngshiheng/my-blog/pull/14) in [ngshiheng/my-blog](https://github.com/ngshiheng/my-blog)
-4. ❌ Closed PR [#17](https://github.com/ngshiheng/my-blog/pull/17) in [ngshiheng/my-blog](https://github.com/ngshiheng/my-blog)
-5. ❌ Closed PR [#16](https://github.com/ngshiheng/my-blog/pull/16) in [ngshiheng/my-blog](https://github.com/ngshiheng/my-blog)
+1. 🎉 Merged PR [#67](https://github.com/ngshiheng/burplist/pull/67) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+2. 💪 Opened PR [#67](https://github.com/ngshiheng/burplist/pull/67) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+3. 🎉 Merged PR [#66](https://github.com/ngshiheng/burplist/pull/66) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+4. 🎉 Merged PR [#65](https://github.com/ngshiheng/burplist/pull/65) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+5. 💪 Opened PR [#65](https://github.com/ngshiheng/burplist/pull/65) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 5. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 6. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 7. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
