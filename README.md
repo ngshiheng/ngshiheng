@@ -44,11 +44,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/ngshiheng/django-graphene-starter/pull/24) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-2. ❌ Closed PR [#22](https://github.com/ngshiheng/django-graphene-starter/pull/22) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
-3. 🎉 Merged PR [#39](https://github.com/ngshiheng/covid19-graphql-api/pull/39) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
-4. 🎉 Merged PR [#13](https://github.com/ngshiheng/burplist-frontend/pull/13) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-5. 🎉 Merged PR [#71](https://github.com/ngshiheng/burplist/pull/71) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+1. ❗️ Closed issue [#25](https://github.com/ngshiheng/covid19-graphql-api/issues/25) in [ngshiheng/covid19-graphql-api](https://github.com/ngshiheng/covid19-graphql-api)
+2. 🎉 Merged PR [#74](https://github.com/ngshiheng/burplist/pull/74) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+3. 💪 Opened PR [#74](https://github.com/ngshiheng/burplist/pull/74) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+4. 🎉 Merged PR [#24](https://github.com/ngshiheng/django-graphene-starter/pull/24) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
+5. ❌ Closed PR [#22](https://github.com/ngshiheng/django-graphene-starter/pull/22) in [ngshiheng/django-graphene-starter](https://github.com/ngshiheng/django-graphene-starter)
 5. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 6. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 7. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
