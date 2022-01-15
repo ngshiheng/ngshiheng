@@ -44,11 +44,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/ngshiheng/burplist-frontend/pull/21) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-2. 🎉 Merged PR [#22](https://github.com/ngshiheng/burplist-frontend/pull/22) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-3. 🎉 Merged PR [#19](https://github.com/ngshiheng/burplist-frontend/pull/19) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-4. 🎉 Merged PR [#20](https://github.com/ngshiheng/burplist-frontend/pull/20) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-5. 🎉 Merged PR [#18](https://github.com/ngshiheng/burplist-frontend/pull/18) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
+1. 🎉 Merged PR [#44](https://github.com/ngshiheng/six-percent/pull/44) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+2. 💪 Opened PR [#44](https://github.com/ngshiheng/six-percent/pull/44) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+3. 🎉 Merged PR [#40](https://github.com/ngshiheng/six-percent/pull/40) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+4. 🎉 Merged PR [#21](https://github.com/ngshiheng/burplist-frontend/pull/21) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
+5. 🎉 Merged PR [#22](https://github.com/ngshiheng/burplist-frontend/pull/22) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
 5. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 6. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 7. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
