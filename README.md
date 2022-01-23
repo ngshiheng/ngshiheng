@@ -44,11 +44,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ngshiheng/paste-story/pull/2) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
-2. 💪 Opened PR [#2](https://github.com/ngshiheng/paste-story/pull/2) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
-3. 🎉 Merged PR [#7](https://github.com/ngshiheng/atomic-url/pull/7) in [ngshiheng/atomic-url](https://github.com/ngshiheng/atomic-url)
-4. ❌ Closed PR [#52](https://github.com/ngshiheng/six-percent/pull/52) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-5. 💪 Opened PR [#52](https://github.com/ngshiheng/six-percent/pull/52) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+1. 💪 Opened PR [#3](https://github.com/ngshiheng/paste-story/pull/3) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
+2. 🎉 Merged PR [#2](https://github.com/ngshiheng/paste-story/pull/2) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
+3. 💪 Opened PR [#2](https://github.com/ngshiheng/paste-story/pull/2) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
+4. 🎉 Merged PR [#7](https://github.com/ngshiheng/atomic-url/pull/7) in [ngshiheng/atomic-url](https://github.com/ngshiheng/atomic-url)
+5. ❌ Closed PR [#52](https://github.com/ngshiheng/six-percent/pull/52) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
 5. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 6. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 7. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
