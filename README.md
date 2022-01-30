@@ -60,11 +60,11 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
 - [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
 - [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
 - [Ditch These 7 Bad Habits in Python](https://dev.to/jerrynsh/ditch-these-7-bad-habits-in-python-5hnc)
 - [How To Ask for Help as a Developer](https://dev.to/jerrynsh/how-to-ask-for-help-as-a-developer-2j1d)
-- [How I Built A Craft Beer Search Engine For Free](https://dev.to/jerrynsh/how-i-built-a-craft-beer-search-engine-for-free-4c14)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
