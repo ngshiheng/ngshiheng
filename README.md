@@ -44,11 +44,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/ngshiheng/paste-story/pull/8) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
-2. ❌ Closed PR [#9](https://github.com/ngshiheng/paste-story/pull/9) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
-3. 🎉 Merged PR [#10](https://github.com/ngshiheng/paste-story/pull/10) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
-4. 🎉 Merged PR [#9](https://github.com/ngshiheng/atomic-url/pull/9) in [ngshiheng/atomic-url](https://github.com/ngshiheng/atomic-url)
-5. 🎉 Merged PR [#7](https://github.com/ngshiheng/paste-story/pull/7) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
+1. ❗️ Opened issue [#12](https://github.com/ngshiheng/atomic-url/issues/12) in [ngshiheng/atomic-url](https://github.com/ngshiheng/atomic-url)
+2. ❗️ Opened issue [#11](https://github.com/ngshiheng/atomic-url/issues/11) in [ngshiheng/atomic-url](https://github.com/ngshiheng/atomic-url)
+3. ❗️ Opened issue [#15](https://github.com/ngshiheng/paste-story/issues/15) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
+4. ❗️ Opened issue [#14](https://github.com/ngshiheng/paste-story/issues/14) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
+5. ❗️ Opened issue [#13](https://github.com/ngshiheng/paste-story/issues/13) in [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story)
 5. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 6. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 7. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
