@@ -44,11 +44,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/ngshiheng/burplist-frontend/pull/24) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-2. 💪 Opened PR [#24](https://github.com/ngshiheng/burplist-frontend/pull/24) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-3. 🎉 Merged PR [#23](https://github.com/ngshiheng/burplist-frontend/pull/23) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-4. 💪 Opened PR [#23](https://github.com/ngshiheng/burplist-frontend/pull/23) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-5. ❗️ Opened issue [#12](https://github.com/ngshiheng/atomic-url/issues/12) in [ngshiheng/atomic-url](https://github.com/ngshiheng/atomic-url)
+1. ❌ Closed PR [#1](https://github.com/ngshiheng/ngshiheng/pull/1) in [ngshiheng/ngshiheng](https://github.com/ngshiheng/ngshiheng)
+2. 🎉 Merged PR [#24](https://github.com/ngshiheng/burplist-frontend/pull/24) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
+3. 💪 Opened PR [#24](https://github.com/ngshiheng/burplist-frontend/pull/24) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
+4. 🎉 Merged PR [#23](https://github.com/ngshiheng/burplist-frontend/pull/23) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
+5. 💪 Opened PR [#23](https://github.com/ngshiheng/burplist-frontend/pull/23) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
 5. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 6. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 7. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
