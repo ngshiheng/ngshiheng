@@ -42,11 +42,11 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
-
 1. ❌ Closed PR [#1](https://github.com/ngshiheng/ngshiheng/pull/1) in [ngshiheng/ngshiheng](https://github.com/ngshiheng/ngshiheng)
 2. 🎉 Merged PR [#24](https://github.com/ngshiheng/burplist-frontend/pull/24) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
 3. 💪 Opened PR [#24](https://github.com/ngshiheng/burplist-frontend/pull/24) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
 4. 🎉 Merged PR [#23](https://github.com/ngshiheng/burplist-frontend/pull/23) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
+5. 💪 Opened PR [#23](https://github.com/ngshiheng/burplist-frontend/pull/23) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
 5. 💪 Opened PR [#23](https://github.com/ngshiheng/burplist-frontend/pull/23) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
 6. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
 7. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
