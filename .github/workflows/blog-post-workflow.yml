@@ -1,4 +1,4 @@
-name: Update Dev.to posts workflow
+name: Update blog posts workflow
 on:
     schedule:
         # Runs at minute 0 past hour 0 and 12
@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    update-readme-with-medium-posts:
+    update-readme-with-blog-posts:
         name: Update Jerry's README with his latest blog posts
         runs-on: ubuntu-latest
         steps:
@@ -14,5 +14,5 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                   feed_list: "https://dev.to/feed/jerrynsh"
-                  commit_message: "🤖 Automatically update README with latest blog post"
+                  commit_message: "🤖 Automatically update README with the latest blog post"
                   filter_comments: ""
