@@ -5,20 +5,9 @@
 ## What's Up?
 
 -   🌱 I'm currently learning Go
--   ✍️ I'm writing on my [Ghost site][ghost]
+-   ✍️ I'm writing on [my site][ghost]
 -   🍻 I crafted [Burplist][burplist]
 -   💬 Ping me about ideas, software engineering, writing, or anything else!
-
-### How to Reach Me:
-
-[<img align="left" alt="ngshiheng | Ghost" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/ghost.svg" />][ghost]
-[<img align="left" alt="ngshiheng | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/medium.svg" />][medium]
-[<img align="left" alt="ngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/devdotto.svg" />][dev]
-[<img align="left" alt="ngshiheng | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/twitter.svg" />][twitter]
-
-<br />
-<br />
 
 ### Programming Languages:
 
@@ -36,6 +25,17 @@
 </a> <a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="python" width="40" height="40"/> </a>
 </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="python" width="40" height="40"/> </a>
 </a> <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="python" width="40" height="40"/> </a>
+
+### How to Reach Me:
+
+[<img align="left" alt="ngshiheng | Ghost" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/ghost.svg" />][ghost]
+[<img align="left" alt="ngshiheng | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/medium.svg" />][medium]
+[<img align="left" alt="ngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/devdotto.svg" />][dev]
+[<img align="left" alt="ngshiheng | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/twitter.svg" />][twitter]
+
+<br />
+<br />
 
 ---
 
@@ -84,7 +84,7 @@
 
 ---
 
-### 🎧 Spotify Playing
+### 🎧 What I'm Listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22zxcagskyqhkk4qkznhsxdxq&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
@@ -92,7 +92,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="Jerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngshiheng&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngshiheng&show_icons=true&hide_border=true&theme=tokyonight" />
 </details>
 
 [ghost]: http://jerrynsh.com/
