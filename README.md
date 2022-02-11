@@ -5,7 +5,7 @@
 ## What's Up?
 
 -   🌱 I'm currently learning Go
--   ✍️ I'm writing on [Medium][medium]
+-   ✍️ I'm writing on my [Ghost site][ghost]
 -   🍻 I crafted [Burplist][burplist]
 -   💬 Ping me about ideas, software engineering, writing, or anything else!
 
@@ -22,11 +22,11 @@
 
 ### Programming Languages:
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+</a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+</a> <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</a> <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</a> <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 
 ### Tools and Framework
 
@@ -44,15 +44,16 @@
 ### 🤖 Latest GitHub Activities
 
 <!--START_SECTION:activity-->
+
 1. ❌ Closed PR [#1](https://github.com/ngshiheng/ngshiheng/pull/1) in [ngshiheng/ngshiheng](https://github.com/ngshiheng/ngshiheng)
 2. 🎉 Merged PR [#24](https://github.com/ngshiheng/burplist-frontend/pull/24) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
 3. 💪 Opened PR [#24](https://github.com/ngshiheng/burplist-frontend/pull/24) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
 4. 🎉 Merged PR [#23](https://github.com/ngshiheng/burplist-frontend/pull/23) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
 5. 💪 Opened PR [#23](https://github.com/ngshiheng/burplist-frontend/pull/23) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-5. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-6. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-7. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-8. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
+6. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+7. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
+8. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
+9. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
  <!--END_SECTION:activity-->
 
 ---
@@ -60,11 +61,12 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
-- [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
-- [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
-- [Ditch These 7 Bad Habits in Python](https://dev.to/jerrynsh/ditch-these-7-bad-habits-in-python-5hnc)
-- [How To Ask for Help as a Developer](https://dev.to/jerrynsh/how-to-ask-for-help-as-a-developer-2j1d)
+
+-   [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
+-   [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
+-   [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
+-   [Ditch These 7 Bad Habits in Python](https://dev.to/jerrynsh/ditch-these-7-bad-habits-in-python-5hnc)
+-   [How To Ask for Help as a Developer](https://dev.to/jerrynsh/how-to-ask-for-help-as-a-developer-2j1d)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
