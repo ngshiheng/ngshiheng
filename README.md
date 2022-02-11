@@ -11,11 +11,11 @@
 
 ### How to Reach Me:
 
-[<img align="left" alt="jerryngshiheng | Ghost" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/ghost.svg" />][ghost]
-[<img align="left" alt="jerryngshiheng | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jerryngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/medium.svg" />][medium]
-[<img align="left" alt="jerryngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/devdotto.svg" />][dev]
-[<img align="left" alt="jerryngshiheng | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ngshiheng | Ghost" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/ghost.svg" />][ghost]
+[<img align="left" alt="ngshiheng | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ngshiheng | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/medium.svg" />][medium]
+[<img align="left" alt="ngshiheng | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/devdotto.svg" />][dev]
+[<img align="left" alt="ngshiheng | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/twitter.svg" />][twitter]
 
 <br />
 <br />
@@ -23,21 +23,19 @@
 ### Programming Languages:
 
 </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 </a> <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </a> <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </a> <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+</a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 
-### Tools and Framework
+### Tools & Frameworks
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+</a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="python" width="40" height="40"/> </a>
+</a> <a href="https://www.djangoproject.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="python" width="40" height="40"/> </a>
+</a> <a href="https://graphql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="python" width="40" height="40"/> </a>
+</a> <a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="python" width="40" height="40"/> </a>
+</a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="python" width="40" height="40"/> </a>
+</a> <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="python" width="40" height="40"/> </a>
 
 ---
 
@@ -102,4 +100,4 @@
 [medium]: https://jerrynsh.medium.com/
 [dev]: https://dev.to/jerrynsh
 [twitter]: https://twitter.com/jerrynsh/
-[burplist]: https://burplist.me/
+[burplist]: https://app.burplist.me/
