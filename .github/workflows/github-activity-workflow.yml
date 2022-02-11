@@ -7,7 +7,7 @@ on:
 
 jobs:
     update-readme-with-github-activity:
-        name: Update Jerry's README with his GitHub activity
+        name: Update README with the latest GitHub activities
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
@@ -15,4 +15,4 @@ jobs:
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
-                  COMMIT_MSG: "🦾 Automatically update README about my latest GitHub activity"
+                  COMMIT_MSG: "🦾 Automatically update README with the latest GitHub activities"

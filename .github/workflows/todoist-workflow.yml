@@ -7,7 +7,7 @@ on:
 
 jobs:
     update-readme-with-todoist-activity:
-        name: Update Jerry's README with his Todoist activity
+        name: Update README with the latest Todoist activities
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
