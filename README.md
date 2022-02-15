@@ -101,4 +101,4 @@
 [medium]: https://jerrynsh.medium.com/
 [dev]: https://dev.to/jerrynsh
 [twitter]: https://twitter.com/jerrynsh/
-[burplist]: https://app.burplist.me/
+[burplist]: https://burplist.me/
