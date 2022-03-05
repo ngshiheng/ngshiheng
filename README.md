@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer from 🇲🇾 in 🇸🇬</h3>
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ngshiheng" alt="ngshiheng" /> </p>
 
-## What's Up?
+## What's Up
 
 -   🌱 I'm currently learning Go
 -   ✍️ I'm writing on [my site][ghost]
@@ -40,52 +40,22 @@
 
 ---
 
-### 🤖 Latest GitHub Activities
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/ngshiheng/six-percent/pull/64) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-2. 🎉 Merged PR [#32](https://github.com/ngshiheng/burplist-frontend/pull/32) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-3. 🎉 Merged PR [#31](https://github.com/ngshiheng/burplist-frontend/pull/31) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-4. 💪 Opened PR [#64](https://github.com/ngshiheng/six-percent/pull/64) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-5. 🎉 Merged PR [#63](https://github.com/ngshiheng/six-percent/pull/63) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-5. 💪 Opened PR [#23](https://github.com/ngshiheng/burplist-frontend/pull/23) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-6. 💪 Opened PR [#23](https://github.com/ngshiheng/burplist-frontend/pull/23) in [ngshiheng/burplist-frontend](https://github.com/ngshiheng/burplist-frontend)
-7. 🎉 Merged PR [#57](https://github.com/ngshiheng/burplist/pull/57) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-8. 🎉 Merged PR [#54](https://github.com/ngshiheng/burplist/pull/54) in [ngshiheng/burplist](https://github.com/ngshiheng/burplist)
-9. ❌ Closed PR [#35](https://github.com/ngshiheng/six-percent/pull/35) in [ngshiheng/six-percent](https://github.com/ngshiheng/six-percent)
-10. 🗣 Commented on [#80](https://github.com/wang0618/PyWebIO/issues/80) in [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO)
-<!--END_SECTION:activity-->
-
----
-
-### 📓 Latest Blog Posts
+## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
-- [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
-- [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
-- [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
-- [Ditch These 7 Bad Habits in Python](https://dev.to/jerrynsh/ditch-these-7-bad-habits-in-python-5hnc)
+
+-   [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
+-   [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
+-   [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
+-   [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
+-   [Ditch These 7 Bad Habits in Python](https://dev.to/jerrynsh/ditch-these-7-bad-habits-in-python-5hnc)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
 
 ---
 
-### 📝 Todoist Stats
-
-<!-- TODO-IST:START -->
-
-🏆 16,400 Karma Points  
-🌸 Completed 2 tasks today  
-✅ Completed 2,185 tasks so far  
-⏳ Longest streak is 6 days
-
-<!-- TODO-IST:END -->
-
----
-
-### 🎧 What I'm Listening to
+## 🎧 What I'm Listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22zxcagskyqhkk4qkznhsxdxq&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
