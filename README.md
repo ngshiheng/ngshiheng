@@ -43,27 +43,15 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
-- [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
-- [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
-- [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
-- [Ditch These 7 Bad Habits in Python](https://dev.to/jerrynsh/ditch-these-7-bad-habits-in-python-5hnc)
+
+-   [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
+-   [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
+-   [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
+-   [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
+-   [Ditch These 7 Bad Habits in Python](https://dev.to/jerrynsh/ditch-these-7-bad-habits-in-python-5hnc)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
-
----
-
-## 🎧 What I'm Listening to
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22zxcagskyqhkk4qkznhsxdxq&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ngshiheng&show_icons=true&hide_border=true&theme=tokyonight" />
-</details>
 
 [ghost]: http://jerrynsh.com/
 [linkedin]: https://www.linkedin.com/in/jerrynsh/
