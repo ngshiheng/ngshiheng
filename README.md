@@ -43,11 +43,11 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Scraped Michelin Guide Using Go](https://dev.to/jerrynsh/how-i-scraped-michelin-guide-using-go-29gf)
 - [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
 - [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
 - [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
 - [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
-- [Ditch These 7 Bad Habits in Python](https://dev.to/jerrynsh/ditch-these-7-bad-habits-in-python-5hnc)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
