@@ -7,15 +7,15 @@
 -   🌱 I'm currently learning Go
 -   ✍️ I'm writing on [my site][ghost]
 -   🍻 I crafted [Burplist][burplist]
--   💬 Ping me about ideas, software engineering, writing, or anything else!
+-   💬 [Ping me][contact] about ideas, software engineering, writing, or anything else!
 
 ### Programming Languages:
 
 </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</a> <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 </a> <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </a> <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </a> <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-</a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 
 ### Technologies:
 
@@ -27,6 +27,7 @@
 </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 </a> <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </a> <a href="https://www.heroku.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> </a>
+</a> <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40"/> </a>
 
 ### How to Reach Me:
 
@@ -43,11 +44,12 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Scraped Michelin Guide Using Go](https://dev.to/jerrynsh/how-i-scraped-michelin-guide-using-go-29gf)
-- [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
-- [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
-- [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
-- [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
+
+-   [How I Scraped Michelin Guide Using Go](https://dev.to/jerrynsh/how-i-scraped-michelin-guide-using-go-29gf)
+-   [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
+-   [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
+-   [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
+-   [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
@@ -58,3 +60,4 @@
 [dev]: https://dev.to/jerrynsh
 [twitter]: https://twitter.com/jerrynsh/
 [burplist]: https://burplist.me/
+[contact]: https://jerrynsh.com/contact/
