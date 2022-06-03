@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jerry</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px" />, I'm Jerry</h1>
 <h3 align="center">A Software Engineer from 🇲🇾 in 🇸🇬</h3>
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ngshiheng" alt="ngshiheng" /> </p>
 
@@ -44,11 +44,12 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Setup CI/CD Pipeline For Cloudflare Worker](https://dev.to/jerrynsh/how-i-setup-cicd-pipeline-for-cloudflare-worker-2kha)
-- [Saying Goodbye to Heroku Postgres for Now](https://dev.to/jerrynsh/saying-goodbye-to-heroku-postgres-for-now-3p5g)
-- [12 Tips to Self-host Renovate Bot](https://dev.to/jerrynsh/12-tips-to-self-host-renovate-bot-446l)
-- [How I Scraped Michelin Guide Using Go](https://dev.to/jerrynsh/how-i-scraped-michelin-guide-using-go-29gf)
-- [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
+
+-   [How I Setup CI/CD Pipeline For Cloudflare Worker](https://dev.to/jerrynsh/how-i-setup-cicd-pipeline-for-cloudflare-worker-2kha)
+-   [Saying Goodbye to Heroku Postgres for Now](https://dev.to/jerrynsh/saying-goodbye-to-heroku-postgres-for-now-3p5g)
+-   [12 Tips to Self-host Renovate Bot](https://dev.to/jerrynsh/12-tips-to-self-host-renovate-bot-446l)
+-   [How I Scraped Michelin Guide Using Go](https://dev.to/jerrynsh/how-i-scraped-michelin-guide-using-go-29gf)
+-   [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
