@@ -19,15 +19,16 @@
 
 ### Technologies:
 
+</a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </a> <a href="https://git-scm.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-</a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-</a> <a href="https://www.djangoproject.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
 </a> <a href="https://graphql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
+</a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+</a> <a href="https://www.digitalocean.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40"/> </a>
+</a> <a href="https://www.djangoproject.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
 </a> <a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-</a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-</a> <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </a> <a href="https://www.heroku.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> </a>
-</a> <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40"/> </a>
+</a> <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 
 ### How to Reach Me:
 
@@ -44,11 +45,12 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Setup CI/CD Pipeline For Cloudflare Worker](https://dev.to/jerrynsh/how-i-setup-cicd-pipeline-for-cloudflare-worker-2kha)
-- [Saying Goodbye to Heroku Postgres for Now](https://dev.to/jerrynsh/saying-goodbye-to-heroku-postgres-for-now-3p5g)
-- [12 Tips to Self-host Renovate Bot](https://dev.to/jerrynsh/12-tips-to-self-host-renovate-bot-446l)
-- [How I Scraped Michelin Guide Using Go](https://dev.to/jerrynsh/how-i-scraped-michelin-guide-using-go-29gf)
-- [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
+
+-   [How I Setup CI/CD Pipeline For Cloudflare Worker](https://dev.to/jerrynsh/how-i-setup-cicd-pipeline-for-cloudflare-worker-2kha)
+-   [Saying Goodbye to Heroku Postgres for Now](https://dev.to/jerrynsh/saying-goodbye-to-heroku-postgres-for-now-3p5g)
+-   [12 Tips to Self-host Renovate Bot](https://dev.to/jerrynsh/12-tips-to-self-host-renovate-bot-446l)
+-   [How I Scraped Michelin Guide Using Go](https://dev.to/jerrynsh/how-i-scraped-michelin-guide-using-go-29gf)
+-   [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
