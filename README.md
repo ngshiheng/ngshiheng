@@ -45,11 +45,11 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [I Export PostgreSQL Queries to Google Sheets For Free. Here’s How](https://dev.to/jerrynsh/i-export-postgresql-queries-to-google-sheets-for-free-heres-how-3529)
 - [How I Setup CI/CD Pipeline For Cloudflare Worker](https://dev.to/jerrynsh/how-i-setup-cicd-pipeline-for-cloudflare-worker-2kha)
 - [Saying Goodbye to Heroku Postgres for Now](https://dev.to/jerrynsh/saying-goodbye-to-heroku-postgres-for-now-3p5g)
 - [12 Tips to Self-host Renovate Bot](https://dev.to/jerrynsh/12-tips-to-self-host-renovate-bot-446l)
 - [How I Scraped Michelin Guide Using Go](https://dev.to/jerrynsh/how-i-scraped-michelin-guide-using-go-29gf)
-- [A Brief Guide To Manage Dotfiles](https://dev.to/jerrynsh/a-brief-guide-to-manage-dotfiles-1h59)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][dev]
