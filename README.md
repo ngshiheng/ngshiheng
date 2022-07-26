@@ -5,7 +5,7 @@
 ## What's Up
 
 -   🌱 I'm currently learning Go
--   ✍️ I'm writing on [my site][ghost]
+-   ✍️ I'm writing on [jerrynsh.com][ghost]
 -   🍻 I crafted [Burplist][burplist]
 -   💬 [Ping me][contact] about ideas, software engineering, writing, or anything else!
 
@@ -45,14 +45,9 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [I Export PostgreSQL Queries to Google Sheets For Free. Here’s How](https://dev.to/jerrynsh/i-export-postgresql-queries-to-google-sheets-for-free-heres-how-3529)
-- [How I Setup CI/CD Pipeline For Cloudflare Worker](https://dev.to/jerrynsh/how-i-setup-cicd-pipeline-for-cloudflare-worker-2kha)
-- [Saying Goodbye to Heroku Postgres for Now](https://dev.to/jerrynsh/saying-goodbye-to-heroku-postgres-for-now-3p5g)
-- [12 Tips to Self-host Renovate Bot](https://dev.to/jerrynsh/12-tips-to-self-host-renovate-bot-446l)
-- [How I Scraped Michelin Guide Using Go](https://dev.to/jerrynsh/how-i-scraped-michelin-guide-using-go-29gf)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Read more...][dev]
+➡️ [Read more...][ghost]
 
 [ghost]: http://jerrynsh.com/
 [linkedin]: https://www.linkedin.com/in/jerrynsh/

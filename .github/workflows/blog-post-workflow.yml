@@ -4,14 +4,14 @@ on:
         # Runs at minute 0 past hour 0 and 12
         - cron: "0 0,12 * * *"
     workflow_dispatch:
-
 jobs:
     update-readme-with-blog-posts:
         name: Update README with the latest blog posts
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - uses: gautamkrishnar/blog-post-workflow@v1
               with:
-                  feed_list: "https://dev.to/feed/jerrynsh"
-                  commit_message: "✍️ Automatically update README with the latest blog post"
+                  feed_list: "https://jerrynsh.com/rss/"
+                  max_post_count: 5
+                  commit_message: "Automatically update README with the latest blog post"
