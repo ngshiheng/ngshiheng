@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px" />, I'm Jerry</h1>
 <h3 align="center">A Software Engineer from 🇲🇾 in 🇸🇬</h3>
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ngshiheng" alt="ngshiheng" /> </p>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ngshiheng&style=for-the-badge" alt="ngshiheng"/> </p>
 
 ## What's Up
 
 -   🌱 I'm currently learning Go
--   ✍️ I'm writing on [jerrynsh.com][ghost]
+-   ✍️ I write on [jerrynsh.com][ghost]
 -   🍻 I crafted [Burplist][burplist]
 -   💬 [Ping me][contact] about ideas, software engineering, writing, or anything else!
 
@@ -45,19 +45,20 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [I Export PostgreSQL Queries to Google Sheets For Free. Here’s How](https://jerrynsh.com/i-export-postgresql-queries-to-gsheets-for-free-heres-how/)
-- [How I Set Up CI/CD Pipeline for Cloudflare Worker](https://jerrynsh.com/how-i-setup-ci-cd-pipeline-for-cloudflare-worker/)
-- [Saying Goodbye to Heroku Postgres for Now](https://jerrynsh.com/saying-goodbye-to-heroku-postgres/)
-- [12 Tips to Self-host Renovate Bot](https://jerrynsh.com/12-tips-to-self-host-renovate-bot/)
-- [How I Scraped Michelin Guide Using Golang](https://jerrynsh.com/how-i-scraped-michelin-guide-using-golang/)
+
+-   [I Export PostgreSQL Queries to Google Sheets For Free. Here’s How](https://jerrynsh.com/i-export-postgresql-queries-to-gsheets-for-free-heres-how/)
+-   [How I Set Up CI/CD Pipeline for Cloudflare Worker](https://jerrynsh.com/how-i-setup-ci-cd-pipeline-for-cloudflare-worker/)
+-   [Saying Goodbye to Heroku Postgres for Now](https://jerrynsh.com/saying-goodbye-to-heroku-postgres/)
+-   [12 Tips to Self-host Renovate Bot](https://jerrynsh.com/12-tips-to-self-host-renovate-bot/)
+-   [How I Scraped Michelin Guide Using Golang](https://jerrynsh.com/how-i-scraped-michelin-guide-using-golang/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][ghost]
 
+[burplist]: https://burplist.me/
+[contact]: https://jerrynsh.com/contact/
+[dev]: https://dev.to/jerrynsh
 [ghost]: http://jerrynsh.com/
 [linkedin]: https://www.linkedin.com/in/jerrynsh/
 [medium]: https://jerrynsh.medium.com/
-[dev]: https://dev.to/jerrynsh
 [twitter]: https://twitter.com/jerrynsh/
-[burplist]: https://burplist.me/
-[contact]: https://jerrynsh.com/contact/
