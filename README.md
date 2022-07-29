@@ -45,12 +45,11 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-
--   [I Export PostgreSQL Queries to Google Sheets For Free. Here’s How](https://jerrynsh.com/i-export-postgresql-queries-to-gsheets-for-free-heres-how/)
--   [How I Set Up CI/CD Pipeline for Cloudflare Worker](https://jerrynsh.com/how-i-setup-ci-cd-pipeline-for-cloudflare-worker/)
--   [Saying Goodbye to Heroku Postgres for Now](https://jerrynsh.com/saying-goodbye-to-heroku-postgres/)
--   [12 Tips to Self-host Renovate Bot](https://jerrynsh.com/12-tips-to-self-host-renovate-bot/)
--   [How I Scraped Michelin Guide Using Golang](https://jerrynsh.com/how-i-scraped-michelin-guide-using-golang/)
+- [I Export PostgreSQL Queries to Google Sheets For Free. Here’s How](https://jerrynsh.com/i-export-postgresql-queries-to-gsheets-for-free-heres-how/)
+- [How I Set Up CI/CD Pipeline for Cloudflare Worker](https://jerrynsh.com/how-i-setup-ci-cd-pipeline-for-cloudflare-worker/)
+- [Saying Goodbye to Heroku Postgres for Now](https://jerrynsh.com/saying-goodbye-to-heroku-postgres/)
+- [12 Tips to Self-host Renovate Bot](https://jerrynsh.com/12-tips-to-self-host-renovate-bot/)
+- [How I Scraped Michelin Guide Using Golang](https://jerrynsh.com/how-i-scraped-michelin-guide-using-golang/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][ghost]
