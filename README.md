@@ -44,12 +44,11 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-
--   [All To Know About Auth and Cookies](https://jerrynsh.com/all-to-know-about-auth-and-cookies/)
--   [4 Levels of How To Use Makefile](https://jerrynsh.com/4-levels-of-how-to-use-makefile/)
--   [Add Dota 2 Upcoming Match to Google Calendar](https://jerrynsh.com/sync-dota-2-esports-matches-to-your-google-calendar/)
--   [Backing Up Ghost Blog in 5 Steps](https://jerrynsh.com/backing-up-ghost-blog-in-5-steps/)
--   [I Export PostgreSQL Queries to Google Sheets For Free. Here’s How](https://jerrynsh.com/i-export-postgresql-queries-to-gsheets-for-free-heres-how/)
+- [All To Know About Auth and Cookies](https://jerrynsh.com/all-to-know-about-auth-and-cookies/)
+- [4 Levels of How To Use Makefile](https://jerrynsh.com/4-levels-of-how-to-use-makefile/)
+- [Add Dota 2 Upcoming Match to Google Calendar](https://jerrynsh.com/sync-dota-2-esports-matches-to-your-google-calendar/)
+- [Backing Up Ghost Blog in 5 Steps](https://jerrynsh.com/backing-up-ghost-blog-in-5-steps/)
+- [I Export PostgreSQL Queries to Google Sheets For Free. Here’s How](https://jerrynsh.com/i-export-postgresql-queries-to-gsheets-for-free-heres-how/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][ghost]
