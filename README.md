@@ -45,8 +45,8 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [Bid Farewell to Heroku Free Tier](https://jerrynsh.com/bid-farewell-to-heroku-free-tier/)
-- [All To Know About Auth and Cookies](https://jerrynsh.com/all-to-know-about-auth-and-cookies/)
+- [Say Goodbye to Heroku Free Tier - Here Are 4 Alternatives](https://jerrynsh.com/bid-farewell-to-heroku-free-tier/)
+- [JWT vs Cookie: Why Comparing the Two Is Misleading](https://jerrynsh.com/all-to-know-about-auth-and-cookies/)
 - [4 Levels of How To Use Makefile](https://jerrynsh.com/4-levels-of-how-to-use-makefile/)
 - [Add Dota 2 Upcoming Match to Google Calendar](https://jerrynsh.com/sync-dota-2-esports-matches-to-your-google-calendar/)
 - [Backing Up Ghost Blog in 5 Steps](https://jerrynsh.com/backing-up-ghost-blog-in-5-steps/)
