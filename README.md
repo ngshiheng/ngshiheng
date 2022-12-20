@@ -45,7 +45,7 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Goodbye to Heroku Free Tier - Here Are 4 Alternatives](https://jerrynsh.com/bid-farewell-to-heroku-free-tier/)
+- [Say Goodbye to Heroku Free Tier: Here Are 4 Alternatives](https://jerrynsh.com/bid-farewell-to-heroku-free-tier/)
 - [JWT vs Cookie: Why Comparing the Two Is Misleading](https://jerrynsh.com/all-to-know-about-auth-and-cookies/)
 - [4 Levels of How To Use Makefile](https://jerrynsh.com/4-levels-of-how-to-use-makefile/)
 - [Add Dota 2 Upcoming Match to Google Calendar](https://jerrynsh.com/sync-dota-2-esports-matches-to-your-google-calendar/)
