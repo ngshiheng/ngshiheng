@@ -45,11 +45,11 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Google With a Bang!](https://jerrynsh.com/how-to-google-with-a-bang/)
 - [Python GIL: Explained Like I&#39;m Five](https://jerrynsh.com/python-gil-explained-like-im-five/)
 - [Python Decorators: Explained in What Why When](https://jerrynsh.com/python-decorators-explained-in-what-why-when/)
 - [Say Goodbye to Heroku Free Tier: Here Are 4 Alternatives](https://jerrynsh.com/bid-farewell-to-heroku-free-tier/)
 - [JWT vs Cookie: Why Comparing the Two Is Misleading](https://jerrynsh.com/all-to-know-about-auth-and-cookies/)
-- [4 Levels of How To Use Makefile](https://jerrynsh.com/4-levels-of-how-to-use-makefile/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][ghost]
