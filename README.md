@@ -45,11 +45,11 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Google Calendar Add-on. Here&#39;s What I Learnt](https://jerrynsh.com/i-built-a-google-calendar-add-on-heres-what-i-learnt/)
 - [Python For-else Construct: A Deep Dive](https://jerrynsh.com/python-for-else-construct-a-deep-dive/)
 - [How to Google With a Bang!](https://jerrynsh.com/how-to-google-with-a-bang/)
 - [Python GIL: Explained Like I&#39;m Five](https://jerrynsh.com/python-gil-explained-like-im-five/)
 - [Python Decorators: Explained in What Why When](https://jerrynsh.com/python-decorators-explained-in-what-why-when/)
-- [Say Goodbye to Heroku Free Tier: Here Are 4 Alternatives](https://jerrynsh.com/bid-farewell-to-heroku-free-tier/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][ghost]
