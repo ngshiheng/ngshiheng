@@ -45,16 +45,17 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Write Testable Code in Python](https://jerrynsh.com/how-to-write-testable-code-in-python/)
-- [I Built a Google Calendar Add-on. Here&#39;s What I Learnt](https://jerrynsh.com/i-built-a-google-calendar-add-on-heres-what-i-learnt/)
-- [Python For-else Construct: A Deep Dive](https://jerrynsh.com/python-for-else-construct-a-deep-dive/)
-- [How to Google With a Bang!](https://jerrynsh.com/how-to-google-with-a-bang/)
-- [Python GIL: Explained Like I&#39;m Five](https://jerrynsh.com/python-gil-explained-like-im-five/)
+
+-   [How To Write Testable Code in Python](https://jerrynsh.com/how-to-write-testable-code-in-python/)
+-   [I Built a Google Calendar Add-on. Here&#39;s What I Learnt](https://jerrynsh.com/i-built-a-google-calendar-add-on-heres-what-i-learnt/)
+-   [Python For-else Construct: A Deep Dive](https://jerrynsh.com/python-for-else-construct-a-deep-dive/)
+-   [How to Google With a Bang!](https://jerrynsh.com/how-to-google-with-a-bang/)
+-   [Python GIL: Explained Like I&#39;m Five](https://jerrynsh.com/python-gil-explained-like-im-five/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][ghost]
 
-[burplist]: https://burplist.me/
+[burplist]: https://burplist.com/
 [contact]: https://jerrynsh.com/contact/
 [dev]: https://dev.to/jerrynsh
 [ghost]: http://jerrynsh.com/
