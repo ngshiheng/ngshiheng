@@ -30,18 +30,6 @@
 </a> <a href="https://graphql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
 </a> <a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 
-### How to Reach Me:
-
-[<img align="left" alt="linkedin | LinkedIn" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="medium | Medium" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/medium.svg" />][medium]
-[<img align="left" alt="dev | Dev" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/devdotto.svg" />][dev]
-[<img align="left" alt="twitter | Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/twitter.svg" />][twitter]
-
-<br />
-<br />
-
----
-
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
