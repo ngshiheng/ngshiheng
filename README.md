@@ -33,11 +33,11 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Spaceflight News Blog with HTMX &amp; JSON API](https://jerrynsh.com/creating-a-spaceflight-news-blog-with-htmx-and-json-api/)
 - [Python Exception Handling: Patterns and Best Practices](https://jerrynsh.com/python-exception-handling-patterns-and-best-practices/)
 - [Build Your Own: Python PDF to Text](https://jerrynsh.com/build-your-own-python-pdf-to-text/)
 - [Go Module Proxy at Grab](https://jerrynsh.com/go-module-proxy-at-grab/)
 - [How To Write Testable Code in Python](https://jerrynsh.com/how-to-write-testable-code-in-python/)
-- [I Built a Google Calendar Add-on. Here&#39;s What I Learnt](https://jerrynsh.com/i-built-a-google-calendar-add-on-heres-what-i-learnt/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][ghost]
