@@ -33,11 +33,11 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [I Made $920.26 Internet Profit in 2023](https://jerrynsh.com/i-made-920-internet-profit-in-2023/)
 - [A Look Back on 7 Years of Automating Stuff](https://jerrynsh.com/a-look-back-on-7-years-of-automating-stuff/)
 - [Building a Free Automated MAS T-Bill Calendar](https://jerrynsh.com/creating-a-mas-t-bill-calendar/)
 - [Creating a Spaceflight News Blog with HTMX &amp; JSON API](https://jerrynsh.com/creating-a-spaceflight-news-blog-with-htmx-and-json-api/)
 - [Python Exception Handling: Patterns and Best Practices](https://jerrynsh.com/python-exception-handling-patterns-and-best-practices/)
-- [Build Your Own: Python PDF to Text](https://jerrynsh.com/build-your-own-python-pdf-to-text/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][ghost]
