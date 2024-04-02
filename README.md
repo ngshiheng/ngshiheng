@@ -33,11 +33,11 @@
 ## 📓 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [10,000 Hours of Gaming](https://jerrynsh.com/10-000-hours-of-gaming/)
 - [I Explored My Z Shell History. Here’s What I Found](https://jerrynsh.com/i-explored-my-z-shell-history/)
 - [How to Manage and Update Python Version](https://jerrynsh.com/how-to-manage-and-update-python-version/)
 - [Breaking Down My 2023 Internet Profits](https://jerrynsh.com/i-made-920-internet-profit-in-2023/)
 - [A Look Back on 7 Years of Automating Stuff](https://jerrynsh.com/a-look-back-on-7-years-of-automating-stuff/)
-- [MAS TBill Calendar: Add to Google Calendar](https://jerrynsh.com/creating-a-mas-t-bill-calendar/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more...][ghost]
