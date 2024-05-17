@@ -9,7 +9,7 @@ Find my silly ideas and unlikely follies at <a href="https://jerrynsh.com/" rel=
 
 <table>
   <tr><th>Title</th><th>Published On</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>[I Made a Chrome Extension](https://jerrynsh.com/i-made-a-chrome-extension/)</td><td>Mon May 13 2024 12:00 AM</td></tr><tr><td>[10,000 Hours of Gaming](https://jerrynsh.com/10-000-hours-of-gaming/)</td><td>Tue Apr 02 2024 12:00 AM</td></tr><tr><td>[I Explored My Z Shell History. Here’s What I Found](https://jerrynsh.com/i-explored-my-z-shell-history/)</td><td>Tue Mar 05 2024 12:00 AM</td></tr><tr><td>[How to Manage and Update Python Version](https://jerrynsh.com/how-to-manage-and-update-python-version/)</td><td>Mon Feb 05 2024 12:00 AM</td></tr><tr><td>[Breaking Down My 2023 Internet Profits](https://jerrynsh.com/i-made-920-internet-profit-in-2023/)</td><td>Tue Jan 02 2024 12:00 AM</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 </table>
 
 ### I typically code in

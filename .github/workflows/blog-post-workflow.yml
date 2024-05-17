@@ -1,8 +1,9 @@
+---
 name: Update blog posts workflow
 on:
     schedule:
-        - cron: "0 0,12 * * *"
-    workflow_dispatch:
+        - cron: 0 0,12 * * *
+    workflow_dispatch: null
 jobs:
     update-readme-with-blog-posts:
         name: Update README with the latest blog posts
@@ -11,7 +12,7 @@ jobs:
             - uses: actions/checkout@v4
             - uses: gautamkrishnar/blog-post-workflow@v1
               with:
-                  commit_message: "Automatically update README with the latest blog post"
-                  feed_list: "https://jerrynsh.com/rss/"
+                  commit_message: Automatically update README with the latest blog post
+                  feed_list: https://jerrynsh.com/rss/
                   max_post_count: 5
-                  template: "<tr><td>[$title]($url)</td><td>$date</td></tr>"
+                  template: <tr><td><a href="$url">$title</a></td><td>$date</td></tr>
